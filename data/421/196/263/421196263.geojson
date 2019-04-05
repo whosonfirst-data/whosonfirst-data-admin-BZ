@@ -1,0 +1,102 @@
+{
+  "id": 421196263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.55,17.3,-88.55,17.3",
+    "geom:latitude":17.3,
+    "geom:longitude":-88.55,
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Kerkhof"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u0641\u0646"
+    ],
+    "name:est_x_preferred":[
+        "Kirikaed"
+    ],
+    "name:fry_x_preferred":[
+        "Tsjerkh\u00f4f"
+    ],
+    "name:glg_x_preferred":[
+        "Adro"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160ventorius"
+    ],
+    "name:nld_x_preferred":[
+        "Kerkhof"
+    ],
+    "name:nno_x_preferred":[
+        "Kyrkjegard"
+    ],
+    "name:por_x_preferred":[
+        "Adro"
+    ],
+    "qs:gn_country":"BZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3582372,
+    "qs:gn_pop":0,
+    "qs:name":"Churchyard",
+    "qs:name_adm0":"Belize",
+    "qs:name_adm1":"Belize",
+    "qs:photos":767,
+    "qs:photos_1k":155,
+    "qs:photos_9k":3,
+    "qs:photos_9r":6,
+    "qs:photos_all":767,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":488961,
+    "qs:woe_adm0":23424760,
+    "qs:woe_id":57241,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":593,
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582372,
+        "gp:id":57241,
+        "qs:id":488961,
+        "wd:id":"Q2749813"
+    },
+    "wof:country":"BZ",
+    "wof:created":1459009875,
+    "wof:geomhash":"4046c830886d02898b604c10118c9f4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":421196263,
+            "region_id":85669321
+        }
+    ],
+    "wof:id":421196263,
+    "wof:lastmodified":1527716368,
+    "wof:name":"Churchyard",
+    "wof:parent_id":85669321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.55,
+    17.3,
+    -88.55,
+    17.3
+],
+  "geometry": {"coordinates":[-88.55,17.3],"type":"Point"}
+}

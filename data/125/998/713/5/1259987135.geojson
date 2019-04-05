@@ -1,0 +1,65 @@
+{
+  "id": 1259987135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.45,18.28333,-88.45,18.28333",
+    "geom:latitude":18.28333,
+    "geom:longitude":-88.45,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Villa Alfonso",
+    "gn:country_code":"BZ",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580854,
+    "gn:latitude":18.28333,
+    "gn:longitude":-88.45,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Villa Alfonso",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580854
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"4e4dddc7b84ae77d4ed89a7d8d7da216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1259987135,
+            "region_id":85669327
+        }
+    ],
+    "wof:id":1259987135,
+    "wof:lastmodified":1536628098,
+    "wof:name":"Villa Alfonso",
+    "wof:parent_id":85669327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.45,
+    18.28333,
+    -88.45,
+    18.28333
+],
+  "geometry": {"coordinates":[-88.45,18.28333],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1260174269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.88177,16.44905,-88.88177,16.44905",
+    "geom:latitude":16.44905,
+    "geom:longitude":-88.88177,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Palmar Camp",
+    "gn:country_code":"BZ",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581504,
+    "gn:latitude":16.44905,
+    "gn:longitude":-88.88177,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Palmar Camp",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Palmer Camp",
+        "Palmar Camp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581504
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"f945c5f3840537422f573f19f5b17a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1260174269,
+            "region_id":85669343
+        }
+    ],
+    "wof:id":1260174269,
+    "wof:lastmodified":1537590258,
+    "wof:name":"Palmar Camp",
+    "wof:parent_id":85669343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.88176999999997,
+    16.44905,
+    -88.88176999999997,
+    16.44905
+],
+  "geometry": {"coordinates":[-88.88176999999997,16.44905],"type":"Point"}
+}

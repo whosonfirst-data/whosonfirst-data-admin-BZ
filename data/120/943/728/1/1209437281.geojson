@@ -1,0 +1,64 @@
+{
+  "id": 1209437281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.19851,16.29102,-89.19851,16.29102",
+    "geom:latitude":16.29102,
+    "geom:longitude":-89.19851,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Esperino",
+    "gn:country_code":"BZ",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695403,
+    "gn:latitude":16.29102,
+    "gn:longitude":-89.19851,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Esperino",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Esperino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695403
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"330cd9b498857f347bcced96cce8312f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632571,
+            "locality_id":1209437281
+        }
+    ],
+    "wof:id":1209437281,
+    "wof:lastmodified":1537590263,
+    "wof:name":"Esperino",
+    "wof:parent_id":85632571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.19851,
+    16.29102,
+    -89.19851,
+    16.29102
+],
+  "geometry": {"coordinates":[-89.19851,16.29102],"type":"Point"}
+}

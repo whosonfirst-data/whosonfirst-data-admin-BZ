@@ -1,0 +1,70 @@
+{
+  "id": 1292928097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.14167,16.20528,-89.14167,16.20528",
+    "geom:latitude":16.20528,
+    "geom:longitude":-89.14167,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pueblo Viejo",
+    "gn:cc2":"BZ",
+    "gn:country_code":"BZ",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581407,
+    "gn:latitude":16.20528,
+    "gn:longitude":-89.14167,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pueblo Viejo",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Antonio Viejo",
+        "Pueblo Viejo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581407
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"031797c0e17299034d898ab6c92257e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1292928097,
+            "region_id":85669343
+        }
+    ],
+    "wof:id":1292928097,
+    "wof:lastmodified":1537590257,
+    "wof:name":"Pueblo Viejo",
+    "wof:parent_id":85669343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.14166999999998,
+    16.20528,
+    -89.14166999999998,
+    16.20528
+],
+  "geometry": {"coordinates":[-89.14166999999998,16.20528],"type":"Point"}
+}

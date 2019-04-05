@@ -1,0 +1,170 @@
+{
+  "id": 421173023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.07139,17.15611,-89.07139,17.15611",
+    "geom:latitude":17.15611,
+    "geom:longitude":-89.07139,
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_variant":[
+        "\u0421\u0430\u043d-\u0406\u0433\u043d\u0430\u0441\u0456\u0451"
+    ],
+    "name:ceb_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u4f0a\u683c\u7d0d\u897f\u5967"
+    ],
+    "name:deu_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:dut_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:eng_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:fra_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:fre_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:ger_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05df \u05d0\u05d9\u05d2\u05e0\u05e1\u05d9\u05d5"
+    ],
+    "name:hrv_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:ita_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30a4\u30b0\u30ca\u30b7\u30aa"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0cc\uc774\uadf8\ub098\uc2dc\uc624"
+    ],
+    "name:lit_x_preferred":[
+        "San Ignasijus"
+    ],
+    "name:nld_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:nob_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:nor_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:pol_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:por_x_preferred":[
+        "San Ignacio/Santa Elena"
+    ],
+    "name:por_x_variant":[
+        "San Ignacio"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043d-\u0418\u0433\u043d\u0430\u0441\u0438\u043e"
+    ],
+    "name:sme_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:spa_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:swe_x_preferred":[
+        "San Ignacio"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0406\u0433\u043d\u0430\u0441\u0456\u043e-\u041a\u0430\u0439\u043e"
+    ],
+    "name:unk_x_variant":[
+        "Cayo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646 \u0627\u06af\u0646\u0627\u0633\u06cc\u0648\u060c \u0628\u06cc\u0644\u06cc\u0632"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u4f0a\u683c\u7d0d\u897f\u5967"
+    ],
+    "qs:gn_country":"BZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3581194,
+    "qs:gn_pop":16812,
+    "qs:name":"San Ignacio",
+    "qs:name_adm0":"Belize",
+    "qs:name_adm1":"Cayo",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"6",
+    "qs:qs_id":488960,
+    "qs:woe_adm0":23424760,
+    "qs:woe_id":57469,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":17.160125,
+    "wd:longitude":-89.059997,
+    "wd:wordcount":859,
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581194,
+        "gp:id":57469,
+        "loc:id":"n88080947",
+        "qs:id":488960,
+        "wd:id":"Q724815",
+        "wk:page":"San Ignacio, Belize"
+    },
+    "wof:country":"BZ",
+    "wof:created":1459008962,
+    "wof:geomhash":"236eb66764adea7d1b875696c861d9c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":421173023,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":421173023,
+    "wof:lastmodified":1553816363,
+    "wof:name":"San Ignacio",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:population":16812,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.07139,
+    17.15611,
+    -89.07139,
+    17.15611
+],
+  "geometry": {"coordinates":[-89.07138999999999,17.15611],"type":"Point"}
+}

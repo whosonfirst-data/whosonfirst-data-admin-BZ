@@ -1,0 +1,62 @@
+{
+  "id": 1209008373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.3352,17.17101,-88.3352,17.17101",
+    "geom:latitude":17.17101,
+    "geom:longitude":-88.3352,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gales Point",
+    "gn:country_code":"BZ",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582059,
+    "gn:latitude":17.17101,
+    "gn:longitude":-88.3352,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Gales Point",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582059,
+        "wk:page":"Gales_Point"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"5c618b494ecfe84c917f160fb4f8be7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632571,
+            "locality_id":1209008373
+        }
+    ],
+    "wof:id":1209008373,
+    "wof:lastmodified":1537488928,
+    "wof:name":"Gales Point",
+    "wof:parent_id":85632571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.3352,
+    17.17101,
+    -88.3352,
+    17.17101
+],
+  "geometry": {"coordinates":[-88.3352,17.17101],"type":"Point"}
+}

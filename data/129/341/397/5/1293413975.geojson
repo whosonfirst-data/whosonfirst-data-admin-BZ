@@ -1,0 +1,68 @@
+{
+  "id": 1293413975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.91712,17.88053,-88.91712,17.88053",
+    "geom:latitude":17.88053,
+    "geom:longitude":-88.91712,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gnadenthal",
+    "gn:country_code":"BZ",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582035,
+    "gn:latitude":17.88053,
+    "gn:longitude":-88.91712,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Gnadenthal",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gnadenthal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582035
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"f71ef60f7ff080e97a615b3206a7df93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1293413975,
+            "region_id":85669331
+        }
+    ],
+    "wof:id":1293413975,
+    "wof:lastmodified":1537590259,
+    "wof:name":"Gnadenthal",
+    "wof:parent_id":85669331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.91712,
+    17.88053,
+    -88.91712,
+    17.88053
+],
+  "geometry": {"coordinates":[-88.91712,17.88053],"type":"Point"}
+}

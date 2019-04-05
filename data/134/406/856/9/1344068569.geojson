@@ -1,0 +1,65 @@
+{
+  "id": 1344068569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-87.94702,17.93954,-87.94702,17.93954",
+    "geom:latitude":17.93954,
+    "geom:longitude":-87.94702,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ambergris Caye",
+    "gn:country_code":"BZ",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7602111,
+    "gn:latitude":17.93954,
+    "gn:longitude":-87.94702,
+    "gn:modification_date":"2010-11-16",
+    "gn:name":"Ambergris Caye",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7602111
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"58d7268d5f030f4e8e6b103442287052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1344068569,
+            "region_id":85669321
+        }
+    ],
+    "wof:id":1344068569,
+    "wof:lastmodified":1536862433,
+    "wof:name":"Ambergris Caye",
+    "wof:parent_id":85669321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.94702,
+    17.93954,
+    -87.94702,
+    17.93954
+],
+  "geometry": {"coordinates":[-87.94701999999999,17.93954],"type":"Point"}
+}

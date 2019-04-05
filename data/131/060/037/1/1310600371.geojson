@@ -1,0 +1,76 @@
+{
+  "id": 1310600371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.40582,16.51765,-88.40582,16.51765",
+    "geom:latitude":16.51765,
+    "geom:longitude":-88.40582,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Big Creek",
+    "gn:country_code":"BZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":3582656,
+    "gn:latitude":16.51765,
+    "gn:longitude":-88.40582,
+    "gn:modification_date":"2014-08-03",
+    "gn:name":"Big Creek",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Big Creek"
+    ],
+    "name:eng_x_variant":[
+        "Cala Grande"
+    ],
+    "name:und_x_variant":[
+        "Hercules",
+        "Big Creek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582656,
+        "wk:page":"Big_Creek,_Belize"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"93b1b52c9173897474118d2c3e19bb68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1310600371,
+            "region_id":85669337
+        }
+    ],
+    "wof:id":1310600371,
+    "wof:lastmodified":1537590262,
+    "wof:name":"Big Creek",
+    "wof:parent_id":85669337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.40581999999998,
+    16.51765,
+    -88.40581999999998,
+    16.51765
+],
+  "geometry": {"coordinates":[-88.40581999999998,16.51765],"type":"Point"}
+}

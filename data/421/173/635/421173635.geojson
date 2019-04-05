@@ -1,0 +1,83 @@
+{
+  "id": 421173635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.53573,17.5573,-88.53573,17.5573",
+    "geom:latitude":17.5573,
+    "geom:longitude":-88.53573,
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Bermudian Landing"
+    ],
+    "name:eng_x_preferred":[
+        "Bermudian Landing"
+    ],
+    "qs:gn_country":"BZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3582661,
+    "qs:gn_pop":0,
+    "qs:name":"Bermudian Landing",
+    "qs:name_adm0":"Belize",
+    "qs:name_adm1":"Belize",
+    "qs:photos":138,
+    "qs:photos_1k":28,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":138,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":294788,
+    "qs:woe_adm0":23424760,
+    "qs:woe_id":57176,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":77,
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582661,
+        "gp:id":57176,
+        "qs:id":294788,
+        "wd:id":"Q4892726",
+        "wk:page":"Bermudian Landing"
+    },
+    "wof:country":"BZ",
+    "wof:created":1459008992,
+    "wof:geomhash":"52c2753060f2770a56ad4840e15d75a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":421173635,
+            "region_id":85669321
+        }
+    ],
+    "wof:id":421173635,
+    "wof:lastmodified":1527716256,
+    "wof:name":"Bermudian Landing",
+    "wof:parent_id":85669321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.53573,
+    17.5573,
+    -88.53573,
+    17.5573
+],
+  "geometry": {"coordinates":[-88.53573,17.5573],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293790125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.12107,17.38493,-89.12107,17.38493",
+    "geom:latitude":17.38493,
+    "geom:longitude":-89.12107,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Burnt Ground",
+    "gn:country_code":"BZ",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582517,
+    "gn:latitude":17.38493,
+    "gn:longitude":-89.12107,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Burnt Ground",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Burnt Ground"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582517
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"03ab6b44ae2aa4116be93cfef65bcc4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1293790125,
+            "region_id":85669331
+        }
+    ],
+    "wof:id":1293790125,
+    "wof:lastmodified":1537590262,
+    "wof:name":"Burnt Ground",
+    "wof:parent_id":85669331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.12106999999997,
+    17.38492999999999,
+    -89.12106999999997,
+    17.38492999999999
+],
+  "geometry": {"coordinates":[-89.12106999999997,17.38492999999999],"type":"Point"}
+}

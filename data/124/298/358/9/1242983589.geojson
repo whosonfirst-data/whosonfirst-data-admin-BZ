@@ -1,0 +1,65 @@
+{
+  "id": 1242983589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.98333,17.35,-88.98333,17.35",
+    "geom:latitude":17.35,
+    "geom:longitude":-88.98333,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"San Pedro",
+    "gn:country_code":"BZ",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581165,
+    "gn:latitude":17.35,
+    "gn:longitude":-88.98333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"San Pedro",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581165
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"56588d81f82243b0cf95c0875b08de72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1242983589,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1242983589,
+    "wof:lastmodified":1536975281,
+    "wof:name":"San Pedro",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.98333000000002,
+    17.35,
+    -88.98333000000002,
+    17.35
+],
+  "geometry": {"coordinates":[-88.98333000000002,17.35],"type":"Point"}
+}

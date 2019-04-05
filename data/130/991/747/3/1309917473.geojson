@@ -1,0 +1,66 @@
+{
+  "id": 1309917473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.50982,18.31946,-88.50982,18.31946",
+    "geom:latitude":18.31946,
+    "geom:longitude":-88.50982,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Louisville",
+    "gn:country_code":"BZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581776,
+    "gn:latitude":18.31946,
+    "gn:longitude":-88.50982,
+    "gn:modification_date":"2014-04-06",
+    "gn:name":"Louisville",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581776,
+        "wk:page":"Louisville%2C_Belize"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"98f66b18a6fe367b143fa5249638cc67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1309917473,
+            "region_id":85669327
+        }
+    ],
+    "wof:id":1309917473,
+    "wof:lastmodified":1537488927,
+    "wof:name":"Louisville",
+    "wof:parent_id":85669327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.50981999999998,
+    18.31946,
+    -88.50981999999998,
+    18.31946
+],
+  "geometry": {"coordinates":[-88.50981999999998,18.31946],"type":"Point"}
+}

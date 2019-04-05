@@ -1,0 +1,257 @@
+{
+  "id": 421201237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.8097,16.09835,-88.8097,16.09835",
+    "geom:latitude":16.09835,
+    "geom:longitude":-88.8097,
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":6.7,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0646\u062a\u0627 \u062c\u0648\u0631\u062f\u0627"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0443\u043d\u0442\u0430-\u0413\u043e\u0440\u0434\u0430"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430 \u0413\u043e\u0440\u0434\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Punta Gorda"
+    ],
+    "name:chi_x_preferred":[
+        "\u84ec\u5854\u6208\u723e\u9054"
+    ],
+    "name:deu_x_preferred":[
+        "Punta Gorda"
+    ],
+    "name:dut_x_preferred":[
+        "Punta Gorda"
+    ],
+    "name:eng_x_preferred":[
+        "Punta Gorda"
+    ],
+    "name:fra_x_preferred":[
+        "Punta Gorda"
+    ],
+    "name:fre_x_preferred":[
+        "Punta Gorda"
+    ],
+    "name:ger_x_preferred":[
+        "Punta Gorda"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e0\u05d8\u05d4 \u05d2\u05d5\u05e8\u05d3\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Punta Gorda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d7\u30f3\u30bf\u30b4\u30eb\u30bf"
+    ],
+    "name:lit_x_preferred":[
+        "Punta Gorda"
+    ],
+    "name:nob_x_preferred":[
+        "Punta Gorda"
+    ],
+    "name:nor_x_preferred":[
+        "Punta Gorda"
+    ],
+    "name:pol_x_preferred":[
+        "Punta Gorda"
+    ],
+    "name:por_x_preferred":[
+        "Punta Gorda"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430-\u0413\u043e\u0440\u0434\u0430"
+    ],
+    "name:sme_x_preferred":[
+        "Punta Gorda"
+    ],
+    "name:spa_x_preferred":[
+        "Punta Gorda"
+    ],
+    "name:swe_x_preferred":[
+        "Punta Gorda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0443\u043d\u0442\u0430-\u0413\u043e\u0440\u0434\u0430"
+    ],
+    "name:unk_x_variant":[
+        "P.G"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0646\u062a\u0627 \u06af\u0648\u0631\u062f\u0627\u060c \u0628\u06cc\u0644\u06cc\u0632"
+    ],
+    "name:zho_x_preferred":[
+        "\u84ec\u5854\u6208\u723e\u9054"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Belize",
+    "ne:ADM0_A3":"BLZ",
+    "ne:ADM1NAME":"Toledo",
+    "ne:ADMIN1_COD":6,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":0,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":null,
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":3581398,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Punta Gorda",
+    "ne:GN_POP":5026,
+    "ne:GTOPO30":-9999.0,
+    "ne:ISO_A2":"BZ",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":16.100347,
+    "ne:LONGITUDE":-88.810016,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Punta Gorda",
+    "ne:MAX_AREAKM":3.0,
+    "ne:MAX_AREAMI":1.0,
+    "ne:MAX_BBXMAX":-88.8,
+    "ne:MAX_BBXMIN":-88.816667,
+    "ne:MAX_BBYMAX":16.108333,
+    "ne:MAX_BBYMIN":16.091667,
+    "ne:MAX_NATSCA":20.0,
+    "ne:MAX_PERKM":7.0,
+    "ne:MAX_PERMI":5.0,
+    "ne:MAX_POP10":7748,
+    "ne:MAX_POP20":7748,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":-88.808333,
+    "ne:MEAN_BBYC":16.1,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":3.0,
+    "ne:MIN_AREAMI":1.0,
+    "ne:MIN_BBXMAX":-88.8,
+    "ne:MIN_BBXMIN":-88.816667,
+    "ne:MIN_BBYMAX":16.108333,
+    "ne:MIN_BBYMIN":16.091667,
+    "ne:MIN_PERKM":7.0,
+    "ne:MIN_PERMI":5.0,
+    "ne:NAME":"Punta Gorda",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Punta Gorda",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":7748,
+    "ne:POP_MIN":5026,
+    "ne:POP_OTHER":7748,
+    "ne:RANK_MAX":5,
+    "ne:RANK_MIN":5,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"Belize",
+    "ne:SOV_A3":"BLZ",
+    "ne:TIMEZONE":"America/Belize",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"BZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3581398,
+    "qs:gn_pop":5026,
+    "qs:name":"Punta Gorda",
+    "qs:name_adm0":"Belize",
+    "qs:name_adm1":"Toledo",
+    "qs:photos":2472,
+    "qs:photos_1k":501,
+    "qs:photos_9k":11,
+    "qs:photos_9r":10,
+    "qs:photos_all":2472,
+    "qs:photos_sr":17,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":210877,
+    "qs:woe_adm0":23424760,
+    "qs:woe_id":57424,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:latitude":16.1,
+    "wd:longitude":-88.8,
+    "wd:wordcount":425,
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581398,
+        "gp:id":57424,
+        "loc:id":"n81129212",
+        "qs:id":210877,
+        "wd:id":"Q883362",
+        "wk:page":"Punta Gorda, Belize"
+    },
+    "wof:country":"BZ",
+    "wof:created":1459010066,
+    "wof:geomhash":"4e89c15a0529cad0212434d2fa44e9ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":421201237,
+            "region_id":85669343
+        }
+    ],
+    "wof:id":421201237,
+    "wof:lastmodified":1527716441,
+    "wof:name":"Punta Gorda",
+    "wof:parent_id":85669343,
+    "wof:placetype":"locality",
+    "wof:population":5026,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.8097,
+    16.09835,
+    -88.8097,
+    16.09835
+],
+  "geometry": {"coordinates":[-88.80970000000001,16.09835],"type":"Point"}
+}

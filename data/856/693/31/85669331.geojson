@@ -1,0 +1,300 @@
+{
+  "id": 85669331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.401654,
+    "geom:area_square_m":4729566920.376495,
+    "geom:bbox":"-89.1613746745,17.3210320802,-88.2843472968,18.247028189",
+    "geom:latitude":17.768711,
+    "geom:longitude":-88.812787,
+    "gn:population":45419,
+    "iso:country":"BZ",
+    "label:eng_x_preferred_longname":[
+        "Orange Walk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":17.650876,
+    "lbl:longitude":-88.879241,
+    "mps:latitude":17.650876,
+    "mps:longitude":-88.879241,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0627\u0648\u0631\u0627\u0646\u062c \u0648\u0648\u0643"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u09b0\u09c7\u099e\u09cd\u099c \u0993\u09af\u09bc\u09be\u0995 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bul_x_preferred":[
+        "\u041e\u0440\u0438\u043d\u0434\u0436 \u0423\u043e\u043b\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Districte d'Orange Walk"
+    ],
+    "name:chi_x_preferred":[
+        "\u6a58\u5712\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Orange Walk"
+    ],
+    "name:dut_x_preferred":[
+        "Orange Walk"
+    ],
+    "name:eng_x_preferred":[
+        "Orange Walk"
+    ],
+    "name:epo_x_preferred":[
+        "Orange Walk"
+    ],
+    "name:fin_x_preferred":[
+        "Orange Walkin kaupunginosa"
+    ],
+    "name:fra_x_preferred":[
+        "Orange Walk"
+    ],
+    "name:fre_x_preferred":[
+        "District d'Orange Walk"
+    ],
+    "name:ger_x_preferred":[
+        "Orange Walk District"
+    ],
+    "name:gre_x_preferred":[
+        "\u038c\u03c1\u03b1\u03bd\u03c4\u03b6 \u0393\u03bf\u03c5\u03cc\u03bb\u03ba"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a93\u0ab0\u0ac7\u0aa8\u0acd\u0a9c \u0ab5\u0acb\u0a95 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0911\u0930\u0947\u0902\u091c \u0935\u093e\u0915 \u091c\u093f\u0932\u093e"
+    ],
+    "name:hrv_x_preferred":[
+        "Orange Walk"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Orange Walk"
+    ],
+    "name:ita_x_preferred":[
+        "distretto di Orange Walk"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30ec\u30f3\u30b8\u30a6\u30a9\u30fc\u30af\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c86\u0cb0\u0cc6\u0c82\u0c9c\u0ccd \u0cb5\u0cbe\u0c95\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\ub80c\uc9c0\uc6cc\ud06c \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Orind\u017evokas distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Orend\u017e Volko rajonas"
+    ],
+    "name:mar_x_preferred":[
+        "\u0911\u0930\u0947\u0902\u091c \u0935\u0949\u0932\u094d\u0915 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Orange Walk District"
+    ],
+    "name:nds_x_preferred":[
+        "Orange Walk"
+    ],
+    "name:nob_x_preferred":[
+        "Orange Walk"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Orange Walk"
+    ],
+    "name:por_x_preferred":[
+        "Orange Walk"
+    ],
+    "name:rus_x_preferred":[
+        "\u041e\u0440\u0438\u043d\u0434\u0436-\u0423\u043e\u043b\u043a"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d94\u0dbb\u0dda\u0db1\u0dca\u0da2\u0dca \u0dc0\u0ddd\u0d9a\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:sme_x_preferred":[
+        "Orange Walk"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Orange Walk"
+    ],
+    "name:swe_x_preferred":[
+        "Orange Walk"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b86\u0bb0\u0b9e\u0bcd\u0b9a\u0bc1  \u0bb5\u0bbe\u0b95\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c06\u0c30\u0c46\u0c02\u0c1c\u0c4d \u0c35\u0c3e\u0c15\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e21\u0e37\u0e2d\u0e07\u0e2d\u0e2d\u0e40\u0e23\u0e19\u0e08\u0e4c \u0e27\u0e2d\u0e25\u0e4c\u0e04"
+    ],
+    "name:tur_x_preferred":[
+        "Orange Walk District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u041e\u0440\u0438\u043d\u0434\u0436-\u0412\u043e\u043b\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Northern District"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0631\u0646\u062c \u0648\u0627\u06a9 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Orange Walk"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BLZ",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BLZ-1326",
+    "ne:adm1_code":"BLZ-1326",
+    "ne:admin":"Belize",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BZ.OW",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1326",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BH04",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Belize",
+    "ne:gn_a1_code":"BZ.04",
+    "ne:gn_id":"3581511",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Orange Walk District",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BH04",
+    "ne:gns_id":"-1149960",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Orange Walk",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BLZ",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BZ-",
+    "ne:iso_a2":"BZ",
+    "ne:labelrank":"9",
+    "ne:latitude":"17.71220000000",
+    "ne:longitude":"-88.85520000000",
+    "ne:mapcolor13":7,
+    "ne:mapcolor9":5,
+    "ne:name":"Orange Walk",
+    "ne:name_alt":"",
+    "ne:name_len":11,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"OW",
+    "ne:provnum_ne":"4",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"9",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"BLZ",
+    "ne:sub_code":"",
+    "ne:type":"District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344797,
+    "ne:woe_label":"Orange Walk, BZ, Belize",
+    "ne:woe_name":"Orange Walk",
+    "qs:a0":"Belize",
+    "qs:a0_lc":"BZ",
+    "qs:a1":"Orange Walk",
+    "qs:a1_lc":"BLZ-1326",
+    "qs:adm0":"Belize",
+    "qs:adm0_a3":"BLZ",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2000-05-12",
+    "statoids:area_km":"4,737",
+    "statoids:area_mi":"1,829",
+    "statoids:as_of_date":"2000-05-12",
+    "statoids:capital":"Orange Walk",
+    "statoids:country":"BZ",
+    "statoids:gec":"BH04",
+    "statoids:hasc":"BZ.OW",
+    "statoids:iso":"OW",
+    "statoids:name":"Orange Walk",
+    "statoids:population":"38890",
+    "statoids:timezone":"-6",
+    "statoids:type":"district",
+    "unlc:subdivision":"BZ-OW",
+    "wof:belongsto":[
+        102191575,
+        85632571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BH04",
+        "gn:id":3581511,
+        "gp:id":2344797,
+        "hasc:id":"BZ.OW",
+        "iso:id":"BZ-OW",
+        "qs:id":235563,
+        "unlc:id":"BZ-OW",
+        "wd:id":"Q506036",
+        "wk:page":"Orange Walk District"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"f1c0d31aa4c89f6f226ac44ad7f72fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "region_id":85669331
+        }
+    ],
+    "wof:id":85669331,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814710,
+    "wof:name":"Orange Walk",
+    "wof:parent_id":85632571,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":38890,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:shortcode":"OW",
+    "wof:subdivision":"BZ-OW",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.16137467450159,
+    17.32103208016639,
+    -88.28434729679026,
+    18.24702818899976
+],
+  "geometry": {"coordinates":[[[-88.28434729679026,17.97228831575325],[-88.50624589703051,17.91764048911733],[-88.55913672627884,17.88867584951089],[-88.56536373644724,17.87136424456429],[-88.56755998430577,17.86270844254062],[-88.56864518902421,17.8526315372157],[-88.56799923387752,17.8453709991723],[-88.56443355956111,17.83198680284875],[-88.563555061317,17.82594065983363],[-88.56386511878014,17.81296987645868],[-88.57001461458276,17.78651154217397],[-88.57047970167685,17.78209320713586],[-88.57040218821038,17.77653799143519],[-88.567249925044,17.75416209630373],[-88.56706905789065,17.74850352601698],[-88.57009212894854,17.72473236690524],[-88.56957536501108,17.71770437285858],[-88.56464026603544,17.70470775016258],[-88.56337419326439,17.69946259192511],[-88.56391679562358,17.69297720023764],[-88.5685418362367,17.68840383646796],[-88.57673255116629,17.68491567651733],[-88.58691280837934,17.68209931103445],[-88.61631669755752,17.66889598186413],[-88.62768551317583,17.65194611302275],[-88.64060462060672,17.61683197671442],[-88.64130225259686,17.59884857819935],[-88.6288999091035,17.45397369972653],[-88.64300757493959,17.45836619724224],[-88.65057817314414,17.4564541693245],[-88.67093868667104,17.4468423528923],[-88.68259172223014,17.44498200091869],[-88.69956743039256,17.43896169722461],[-88.72907467325751,17.42007396114445],[-88.74690304214164,17.41395030376356],[-88.76966651090072,17.41108226233661],[-88.79651241701441,17.41221914299911],[-88.81095597963474,17.41084971833988],[-88.82131710490046,17.41149567348657],[-88.8448557200154,17.41048798313398],[-88.86263241205614,17.41177989342737],[-88.8775669010916,17.41418284776029],[-88.88431067609679,17.41190908553591],[-88.89159705256191,17.40410594333468],[-88.89753984189014,17.39599274277089],[-88.90790096715585,17.38904226309],[-88.92177608899527,17.38462392805189],[-89.03797054690318,17.37201487898352],[-89.04603207062354,17.37384939253548],[-89.05386105034717,17.37682078674993],[-89.0649198067037,17.37625234596902],[-89.07902747343911,17.37134308541511],[-89.12054948616981,17.34488475202971],[-89.150727874192,17.32103208016639],[-89.1562173953165,17.5982433488515],[-89.16049617445884,17.81431427028741],[-89.16137467450159,17.90144073490205],[-89.15393326750626,17.94107655903605],[-89.14633680569898,17.95145624720811],[-89.13256506362677,17.97027374353848],[-89.04944352290022,17.99921254562253],[-89.02802364127797,17.99208119698972],[-89.01153885953073,17.977818502422],[-88.99657853207356,17.96185048551155],[-88.97975785354208,17.94944814111886],[-88.96784643556452,17.94825958361292],[-88.9565034592672,17.9505333458373],[-88.94702083404422,17.94846628828861],[-88.93330074093643,17.92035430940393],[-88.92045914787133,17.91094919944607],[-88.88033239822158,17.8884699515271],[-88.87136653693608,17.89095041932643],[-88.86537207076441,17.89901194304679],[-88.86085038293879,17.92112945665917],[-88.85640620857964,17.92831247943741],[-88.80534989468185,17.96500274687929],[-88.79594478382467,17.97559641524242],[-88.78163041151424,18.01471547543889],[-88.77687618059122,18.02375885019086],[-88.7620192059216,18.03564443064602],[-88.7483507896572,18.04329254141771],[-88.73638769573552,18.05192250591898],[-88.72664668809415,18.06672780464453],[-88.72349442582703,18.07750234016095],[-88.72044551634747,18.10008494086736],[-88.71770666523037,18.1100326540838],[-88.69285030050094,18.15000437410265],[-88.68951717197984,18.16124399941111],[-88.69295365418776,18.1751707971946],[-88.69662268129167,18.17806467704327],[-88.66814896720103,18.19824432431619],[-88.6389517826986,18.21160268131877],[-88.62704036472104,18.22031016018582],[-88.6169892987171,18.23542551727382],[-88.61405893067507,18.24702818899976],[-88.60391435406416,18.24498485017074],[-88.54022315087769,18.21813894315773],[-88.49443783184046,18.1860478779073],[-88.42178076916713,18.09142833125253],[-88.28434729679026,17.97228831575325]]],"type":"Polygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1326463253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.5429,18.01306,-88.5429,18.01306",
+    "geom:latitude":18.01306,
+    "geom:longitude":-88.5429,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Carmelita",
+    "gn:country_code":"BZ",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582454,
+    "gn:latitude":18.01306,
+    "gn:longitude":-88.5429,
+    "gn:modification_date":"2018-03-21",
+    "gn:name":"Carmelita",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582454,
+        "wk:page":"Carmelita,_Belize"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"3047da01b54bcd88e9c929726e47afe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1326463253,
+            "region_id":85669331
+        }
+    ],
+    "wof:id":1326463253,
+    "wof:lastmodified":1537488929,
+    "wof:name":"Carmelita",
+    "wof:parent_id":85669331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.5429,
+    18.01306,
+    -88.5429,
+    18.01306
+],
+  "geometry": {"coordinates":[-88.5429,18.01306],"type":"Point"}
+}

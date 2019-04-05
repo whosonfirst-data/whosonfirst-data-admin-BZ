@@ -1,0 +1,68 @@
+{
+  "id": 1243164695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.18865,15.90964,-89.18865,15.90964",
+    "geom:latitude":15.90964,
+    "geom:longitude":-89.18865,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Happy Farms Village",
+    "gn:country_code":"BZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695287,
+    "gn:latitude":15.90964,
+    "gn:longitude":-89.18865,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Happy Farms Village",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Happy Farms Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695287
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"bfb4a6131d7b0c139f2c30002356f968",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1243164695,
+            "region_id":85669343
+        }
+    ],
+    "wof:id":1243164695,
+    "wof:lastmodified":1537590263,
+    "wof:name":"Happy Farms Village",
+    "wof:parent_id":85669343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.18865,
+    15.90964,
+    -89.18865,
+    15.90964
+],
+  "geometry": {"coordinates":[-89.18865,15.90964],"type":"Point"}
+}

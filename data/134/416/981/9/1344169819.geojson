@@ -1,0 +1,68 @@
+{
+  "id": 1344169819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.05361,17.25889,-89.05361,17.25889",
+    "geom:latitude":17.25889,
+    "geom:longitude":-89.05361,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fermin Reyes",
+    "gn:country_code":"BZ",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582117,
+    "gn:latitude":17.25889,
+    "gn:longitude":-89.05361,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Fermin Reyes",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Fermin Reyes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582117
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"9fd0923f61ad4875a4efd5a3e5ef86a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1344169819,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1344169819,
+    "wof:lastmodified":1537590260,
+    "wof:name":"Fermin Reyes",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.05360999999998,
+    17.25889,
+    -89.05360999999998,
+    17.25889
+],
+  "geometry": {"coordinates":[-89.05360999999998,17.25889],"type":"Point"}
+}

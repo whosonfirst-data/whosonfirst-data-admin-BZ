@@ -1,0 +1,70 @@
+{
+  "id": 1226140491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.09363,16.26713,-89.09363,16.26713",
+    "geom:latitude":16.26713,
+    "geom:longitude":-89.09363,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"San Jose",
+    "gn:cc2":"BZ",
+    "gn:country_code":"BZ",
+    "gn:dem":259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581190,
+    "gn:latitude":16.26713,
+    "gn:longitude":-89.09363,
+    "gn:modification_date":"2014-07-02",
+    "gn:name":"San Jose",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hawiia",
+        "San Jose"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581190
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"0cf4bb5a7396024a9ce75066fd598c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1226140491,
+            "region_id":85669343
+        }
+    ],
+    "wof:id":1226140491,
+    "wof:lastmodified":1537590256,
+    "wof:name":"San Jose",
+    "wof:parent_id":85669343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.09363,
+    16.26713,
+    -89.09363,
+    16.26713
+],
+  "geometry": {"coordinates":[-89.09363,16.26713],"type":"Point"}
+}

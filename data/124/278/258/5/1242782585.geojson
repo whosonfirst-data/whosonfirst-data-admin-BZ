@@ -1,0 +1,65 @@
+{
+  "id": 1242782585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.5,16.83333,-88.5,16.83333",
+    "geom:latitude":16.83333,
+    "geom:longitude":-88.5,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Stann Creek District",
+    "gn:country_code":"BZ",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6942009,
+    "gn:latitude":16.83333,
+    "gn:longitude":-88.5,
+    "gn:modification_date":"2009-06-10",
+    "gn:name":"Stann Creek District",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6942009
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"50e1ad9df9d5de79a6211e933a18db2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1242782585,
+            "region_id":85669337
+        }
+    ],
+    "wof:id":1242782585,
+    "wof:lastmodified":1536768836,
+    "wof:name":"Stann Creek District",
+    "wof:parent_id":85669337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.5,
+    16.83333,
+    -88.5,
+    16.83333
+],
+  "geometry": {"coordinates":[-88.5,16.83333],"type":"Point"}
+}

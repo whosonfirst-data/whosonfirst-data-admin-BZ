@@ -1,0 +1,69 @@
+{
+  "id": 1242585273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.29952,18.07831,-88.29952,18.07831",
+    "geom:latitude":18.07831,
+    "geom:longitude":-88.29952,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Campa Pita",
+    "gn:country_code":"BZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582479,
+    "gn:latitude":18.07831,
+    "gn:longitude":-88.29952,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Campa Pita",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campa Rita",
+        "Campa Pita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582479
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"d5e78a2b2d7b971b75a6fc3dded7a93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1242585273,
+            "region_id":85669327
+        }
+    ],
+    "wof:id":1242585273,
+    "wof:lastmodified":1537590261,
+    "wof:name":"Campa Pita",
+    "wof:parent_id":85669327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.29952,
+    18.07831,
+    -88.29952,
+    18.07831
+],
+  "geometry": {"coordinates":[-88.29952,18.07831],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 890432795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.83472,17.33472,-88.83472,17.33472",
+    "geom:latitude":17.33472,
+    "geom:longitude":-88.83472,
+    "gn:country":"BZ",
+    "gn:fcode":"PPL",
+    "gn:pop":1809,
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0641\u0627\u0644\u064a \u0623\u0648\u0641 \u0628\u064a\u0633"
+    ],
+    "name:dut_x_preferred":[
+        "Valley of Peace"
+    ],
+    "name:eng_x_preferred":[
+        "Valley of Peace"
+    ],
+    "name:per_x_preferred":[
+        "\u0648\u0644\u06cc \u0622\u0648 \u067e\u06cc\u0633\u060c \u0628\u0644\u06cc\u0632"
+    ],
+    "name:pol_x_preferred":[
+        "Valley of Peace"
+    ],
+    "name:por_x_preferred":[
+        "Valley of Peace"
+    ],
+    "name:spa_x_preferred":[
+        "Valley of Peace"
+    ],
+    "name:swe_x_preferred":[
+        "Valley of Peace"
+    ],
+    "qs:name":"Valley of Peace",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:population":"geonames",
+    "wd:wordcount":50,
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3830322,
+        "gp:id":57172,
+        "qs:id":585441,
+        "wd:id":"Q7912335",
+        "wk:page":"Valley of Peace"
+    },
+    "wof:country":"BZ",
+    "wof:created":1469051954,
+    "wof:geomhash":"fcdae31cb27b96c7653723ac067eb6da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":890432795,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":890432795,
+    "wof:lastmodified":1527793040,
+    "wof:name":"Valley of Peace",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:population":1809,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.83472,
+    17.33472,
+    -88.83472,
+    17.33472
+],
+  "geometry": {"coordinates":[-88.83472,17.33472],"type":"Point"}
+}

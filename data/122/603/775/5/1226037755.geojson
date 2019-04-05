@@ -1,0 +1,68 @@
+{
+  "id": 1226037755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.20534,16.18409,-89.20534,16.18409",
+    "geom:latitude":16.18409,
+    "geom:longitude":-89.20534,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Santa Cruz",
+    "gn:country_code":"BZ",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695295,
+    "gn:latitude":16.18409,
+    "gn:longitude":-89.20534,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Santa Cruz",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Cruz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695295
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"374b69118d0f6e5b842fd6bc8dac7a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1226037755,
+            "region_id":85669343
+        }
+    ],
+    "wof:id":1226037755,
+    "wof:lastmodified":1537590263,
+    "wof:name":"Santa Cruz",
+    "wof:parent_id":85669343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.20534,
+    16.18409,
+    -89.20534,
+    16.18409
+],
+  "geometry": {"coordinates":[-89.20534000000001,16.18409],"type":"Point"}
+}

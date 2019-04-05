@@ -1,0 +1,68 @@
+{
+  "id": 1243176911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.45437,16.6662,-88.45437,16.6662",
+    "geom:latitude":16.6662,
+    "geom:longitude":-88.45437,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Santa Rosa Village",
+    "gn:country_code":"BZ",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695374,
+    "gn:latitude":16.6662,
+    "gn:longitude":-88.45437,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Santa Rosa Village",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Rosa Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695374
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"fadcc49819e0ee0ab25891a3449b4450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1243176911,
+            "region_id":85669337
+        }
+    ],
+    "wof:id":1243176911,
+    "wof:lastmodified":1537590263,
+    "wof:name":"Santa Rosa Village",
+    "wof:parent_id":85669337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.45437,
+    16.6662,
+    -88.45437,
+    16.6662
+],
+  "geometry": {"coordinates":[-88.45437,16.6662],"type":"Point"}
+}

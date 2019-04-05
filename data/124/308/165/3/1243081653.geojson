@@ -1,0 +1,73 @@
+{
+  "id": 1243081653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.40527,17.56933,-88.40527,17.56933",
+    "geom:latitude":17.56933,
+    "geom:longitude":-88.40527,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Burrell Boom",
+    "gn:cc2":"BZ",
+    "gn:country_code":"BZ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582514,
+    "gn:latitude":17.56933,
+    "gn:longitude":-88.40527,
+    "gn:modification_date":"2008-07-01",
+    "gn:name":"Burrell Boom",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Boom",
+        "Burrell's Town",
+        "Boon Town",
+        "Boom Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582514,
+        "wk:page":"Burrell_Boom"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"7b70794dbd53f61dbebfec3773d21e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1243081653,
+            "region_id":85669321
+        }
+    ],
+    "wof:id":1243081653,
+    "wof:lastmodified":1537590262,
+    "wof:name":"Burrell Boom",
+    "wof:parent_id":85669321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.40527,
+    17.56932999999999,
+    -88.40527,
+    17.56932999999999
+],
+  "geometry": {"coordinates":[-88.40527,17.56932999999999],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1259485211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.41667,18.43333,-88.41667,18.43333",
+    "geom:latitude":18.43333,
+    "geom:longitude":-88.41667,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chan Chen",
+    "gn:country_code":"BZ",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582398,
+    "gn:latitude":18.43333,
+    "gn:longitude":-88.41667,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Chan Chen",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582398,
+        "wk:page":"Chan_Chen"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"0270c891b8878b3f34fba997b12c1749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1259485211,
+            "region_id":85669327
+        }
+    ],
+    "wof:id":1259485211,
+    "wof:lastmodified":1537488929,
+    "wof:name":"Chan Chen",
+    "wof:parent_id":85669327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.41667,
+    18.43333,
+    -88.41667,
+    18.43333
+],
+  "geometry": {"coordinates":[-88.41667,18.43333],"type":"Point"}
+}

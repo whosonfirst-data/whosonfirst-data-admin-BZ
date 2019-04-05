@@ -1,0 +1,66 @@
+{
+  "id": 1310306849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.52085,18.30396,-88.52085,18.30396",
+    "geom:latitude":18.30396,
+    "geom:longitude":-88.52085,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"San Narciso",
+    "gn:country_code":"BZ",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581169,
+    "gn:latitude":18.30396,
+    "gn:longitude":-88.52085,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"San Narciso",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581169,
+        "wk:page":"San_Narciso,_Belize"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"c44bd0fdadd4cd43507a4bc0d97ff643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1310306849,
+            "region_id":85669327
+        }
+    ],
+    "wof:id":1310306849,
+    "wof:lastmodified":1537488925,
+    "wof:name":"San Narciso",
+    "wof:parent_id":85669327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.52085,
+    18.30396,
+    -88.52085,
+    18.30396
+],
+  "geometry": {"coordinates":[-88.52085,18.30396],"type":"Point"}
+}

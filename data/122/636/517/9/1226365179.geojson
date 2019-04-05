@@ -1,0 +1,65 @@
+{
+  "id": 1226365179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.30868,16.82836,-88.30868,16.82836",
+    "geom:latitude":16.82836,
+    "geom:longitude":-88.30868,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Middle Bank",
+    "gn:country_code":"BZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581682,
+    "gn:latitude":16.82836,
+    "gn:longitude":-88.30868,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Middle Bank",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581682
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"4aad3982927bae7ea3f4dcb2e88dbfa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1226365179,
+            "region_id":85669337
+        }
+    ],
+    "wof:id":1226365179,
+    "wof:lastmodified":1536761805,
+    "wof:name":"Middle Bank",
+    "wof:parent_id":85669337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.30868000000002,
+    16.82836,
+    -88.30868000000002,
+    16.82836
+],
+  "geometry": {"coordinates":[-88.30868000000002,16.82836],"type":"Point"}
+}

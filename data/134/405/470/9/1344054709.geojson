@@ -1,0 +1,68 @@
+{
+  "id": 1344054709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.93333,16.1,-88.93333,16.1",
+    "geom:latitude":16.1,
+    "geom:longitude":-88.93333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"San Antonia",
+    "gn:country_code":"BZ",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581223,
+    "gn:latitude":16.1,
+    "gn:longitude":-88.93333,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"San Antonia",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Antonio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581223
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"0fff0fe3b5f52860be0770b1cc62cae8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1344054709,
+            "region_id":85669343
+        }
+    ],
+    "wof:id":1344054709,
+    "wof:lastmodified":1537590257,
+    "wof:name":"San Antonia",
+    "wof:parent_id":85669343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.93333,
+    16.1,
+    -88.93333,
+    16.1
+],
+  "geometry": {"coordinates":[-88.93333,16.1],"type":"Point"}
+}

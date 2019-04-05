@@ -1,0 +1,64 @@
+{
+  "id": 1209539797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.89089,17.89853,-88.89089,17.89853",
+    "geom:latitude":17.89853,
+    "geom:longitude":-88.89089,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Inda Vista",
+    "gn:country_code":"BZ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695026,
+    "gn:latitude":17.89853,
+    "gn:longitude":-88.89089,
+    "gn:modification_date":"2017-08-03",
+    "gn:name":"Inda Vista",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Inda Vista"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695026
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"02a6675266b0005832cf84c82525b710",
+    "wof:hierarchy":[
+        {
+            "country_id":85632571,
+            "locality_id":1209539797
+        }
+    ],
+    "wof:id":1209539797,
+    "wof:lastmodified":1537590263,
+    "wof:name":"Inda Vista",
+    "wof:parent_id":85632571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.89089,
+    17.89852999999999,
+    -88.89089,
+    17.89852999999999
+],
+  "geometry": {"coordinates":[-88.89089,17.89852999999999],"type":"Point"}
+}

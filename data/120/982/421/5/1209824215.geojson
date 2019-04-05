@@ -1,0 +1,66 @@
+{
+  "id": 1209824215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.111,17.168,-89.111,17.168",
+    "geom:latitude":17.168,
+    "geom:longitude":-89.111,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bullet Tree Falls",
+    "gn:country_code":"BZ",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582524,
+    "gn:latitude":17.168,
+    "gn:longitude":-89.111,
+    "gn:modification_date":"2016-09-30",
+    "gn:name":"Bullet Tree Falls",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582524,
+        "wk:page":"Bullet_Tree_Falls"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"3869f7d87e4bbd94f7a31f4f94cb8b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1209824215,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1209824215,
+    "wof:lastmodified":1537488929,
+    "wof:name":"Bullet Tree Falls",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.111,
+    17.168,
+    -89.111,
+    17.168
+],
+  "geometry": {"coordinates":[-89.111,17.168],"type":"Point"}
+}

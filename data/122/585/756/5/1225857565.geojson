@@ -1,0 +1,66 @@
+{
+  "id": 1225857565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.02361,17.07861,-89.02361,17.07861",
+    "geom:latitude":17.07861,
+    "geom:longitude":-89.02361,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"San Antonio",
+    "gn:country_code":"BZ",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581221,
+    "gn:latitude":17.07861,
+    "gn:longitude":-89.02361,
+    "gn:modification_date":"2012-05-06",
+    "gn:name":"San Antonio",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581221,
+        "wk:page":"San_Antonio%2C_Cayo"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"b5c5178bb7415043ba17978317d2f2da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1225857565,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1225857565,
+    "wof:lastmodified":1537488926,
+    "wof:name":"San Antonio",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.02360999999998,
+    17.07861,
+    -89.02360999999998,
+    17.07861
+],
+  "geometry": {"coordinates":[-89.02360999999998,17.07861],"type":"Point"}
+}

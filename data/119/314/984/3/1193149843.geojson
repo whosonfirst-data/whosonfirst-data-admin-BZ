@@ -1,0 +1,68 @@
+{
+  "id": 1193149843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.05028,17.1375,-89.05028,17.1375",
+    "geom:latitude":17.1375,
+    "geom:longitude":-89.05028,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Monkey Fall",
+    "gn:country_code":"BZ",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581649,
+    "gn:latitude":17.1375,
+    "gn:longitude":-89.05028,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Monkey Fall",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Monkey Fall"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581649
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"43ebf1eaee9ce456a4821c0a7e12f111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1193149843,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1193149843,
+    "wof:lastmodified":1537590258,
+    "wof:name":"Monkey Fall",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.05028,
+    17.1375,
+    -89.05028,
+    17.1375
+],
+  "geometry": {"coordinates":[-89.05028,17.1375],"type":"Point"}
+}

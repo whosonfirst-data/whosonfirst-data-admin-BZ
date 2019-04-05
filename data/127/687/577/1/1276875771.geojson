@@ -1,0 +1,73 @@
+{
+  "id": 1276875771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.14028,16.71861,-89.14028,16.71861",
+    "geom:latitude":16.71861,
+    "geom:longitude":-89.14028,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Retiro",
+    "gn:cc2":"BZ",
+    "gn:country_code":"BZ",
+    "gn:dem":416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581329,
+    "gn:latitude":16.71861,
+    "gn:longitude":-89.14028,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Retiro",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "El Retiro Camp",
+        "Old Retiro",
+        "New Retiro",
+        "Rotiro",
+        "Retiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581329
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"4802f3d54b459abe2c1e30faa75075f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1276875771,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1276875771,
+    "wof:lastmodified":1537590257,
+    "wof:name":"Retiro",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.14028,
+    16.71861,
+    -89.14028,
+    16.71861
+],
+  "geometry": {"coordinates":[-89.14028,16.71861],"type":"Point"}
+}

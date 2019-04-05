@@ -1,0 +1,65 @@
+{
+  "id": 1209719735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.51667,17.56667,-88.51667,17.56667",
+    "geom:latitude":17.56667,
+    "geom:longitude":-88.51667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Scotland",
+    "gn:country_code":"BZ",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581096,
+    "gn:latitude":17.56667,
+    "gn:longitude":-88.51667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Scotland",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581096
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"13cc05fd388abd6dfd998eaaa1bf78e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1209719735,
+            "region_id":85669321
+        }
+    ],
+    "wof:id":1209719735,
+    "wof:lastmodified":1536386924,
+    "wof:name":"Scotland",
+    "wof:parent_id":85669321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.51666999999998,
+    17.56667,
+    -88.51666999999998,
+    17.56667
+],
+  "geometry": {"coordinates":[-88.51666999999998,17.56667],"type":"Point"}
+}

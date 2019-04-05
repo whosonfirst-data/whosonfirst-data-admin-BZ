@@ -1,0 +1,65 @@
+{
+  "id": 1360106945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.08178,16.28538,-89.08178,16.28538",
+    "geom:latitude":16.28538,
+    "geom:longitude":-89.08178,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Na Luum Ca",
+    "gn:country_code":"BZ",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9253636,
+    "gn:latitude":16.28538,
+    "gn:longitude":-89.08178,
+    "gn:modification_date":"2014-07-23",
+    "gn:name":"Na Luum Ca",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9253636
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"98416a8877b895c0ebccf5e1241685e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1360106945,
+            "region_id":85669343
+        }
+    ],
+    "wof:id":1360106945,
+    "wof:lastmodified":1536914581,
+    "wof:name":"Na Luum Ca",
+    "wof:parent_id":85669343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.08178000000002,
+    16.28538,
+    -89.08178000000002,
+    16.28538
+],
+  "geometry": {"coordinates":[-89.08178000000002,16.28538],"type":"Point"}
+}

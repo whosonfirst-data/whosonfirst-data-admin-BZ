@@ -1,0 +1,65 @@
+{
+  "id": 1293685955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.33333,16.88333,-88.33333,16.88333",
+    "geom:latitude":16.88333,
+    "geom:longitude":-88.33333,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Silk Grass",
+    "gn:country_code":"BZ",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581050,
+    "gn:latitude":16.88333,
+    "gn:longitude":-88.33333,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Silk Grass",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581050
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"25ffd96ae0126cc114cdfd89483a17e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1293685955,
+            "region_id":85669337
+        }
+    ],
+    "wof:id":1293685955,
+    "wof:lastmodified":1536997494,
+    "wof:name":"Silk Grass",
+    "wof:parent_id":85669337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.33333,
+    16.88332999999999,
+    -88.33333,
+    16.88332999999999
+],
+  "geometry": {"coordinates":[-88.33333,16.88332999999999],"type":"Point"}
+}

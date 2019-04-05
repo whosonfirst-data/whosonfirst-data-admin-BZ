@@ -1,0 +1,68 @@
+{
+  "id": 1343765339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.12389,17.255,-89.12389,17.255",
+    "geom:latitude":17.255,
+    "geom:longitude":-89.12389,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chorro",
+    "gn:country_code":"BZ",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582377,
+    "gn:latitude":17.255,
+    "gn:longitude":-89.12389,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Chorro",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chorro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582377
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"9c2d3901ba48879e51dc0b163902d4da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1343765339,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1343765339,
+    "wof:lastmodified":1537590261,
+    "wof:name":"Chorro",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.12389,
+    17.255,
+    -89.12389,
+    17.255
+],
+  "geometry": {"coordinates":[-89.12389,17.255],"type":"Point"}
+}

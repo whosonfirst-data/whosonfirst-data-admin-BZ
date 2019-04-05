@@ -1,0 +1,68 @@
+{
+  "id": 1260284549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.08105,17.40535,-89.08105,17.40535",
+    "geom:latitude":17.40535,
+    "geom:longitude":-89.08105,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Corozal",
+    "gn:country_code":"BZ",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582306,
+    "gn:latitude":17.40535,
+    "gn:longitude":-89.08105,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Corozal",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Corozal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582306
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"f64497bb3813524ab677e8465f4dbabd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1260284549,
+            "region_id":85669331
+        }
+    ],
+    "wof:id":1260284549,
+    "wof:lastmodified":1537590261,
+    "wof:name":"Corozal",
+    "wof:parent_id":85669331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.08105,
+    17.40535,
+    -89.08105,
+    17.40535
+],
+  "geometry": {"coordinates":[-89.08105,17.40535],"type":"Point"}
+}

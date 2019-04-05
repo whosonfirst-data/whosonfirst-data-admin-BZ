@@ -1,0 +1,65 @@
+{
+  "id": 1327346339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.05462,17.16142,-89.05462,17.16142",
+    "geom:latitude":17.16142,
+    "geom:longitude":-89.05462,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Santa Elena",
+    "gn:country_code":"BZ",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581143,
+    "gn:latitude":17.16142,
+    "gn:longitude":-89.05462,
+    "gn:modification_date":"2014-07-21",
+    "gn:name":"Santa Elena",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581143
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"c44d96389b0bf15055252bca5b8fac51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1327346339,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1327346339,
+    "wof:lastmodified":1536804876,
+    "wof:name":"Santa Elena",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.05462,
+    17.16142,
+    -89.05462,
+    17.16142
+],
+  "geometry": {"coordinates":[-89.05462,17.16142],"type":"Point"}
+}

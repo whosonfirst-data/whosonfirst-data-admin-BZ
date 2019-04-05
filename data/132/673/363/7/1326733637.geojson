@@ -1,0 +1,68 @@
+{
+  "id": 1326733637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.13552,17.15805,-89.13552,17.15805",
+    "geom:latitude":17.15805,
+    "geom:longitude":-89.13552,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Plant Sucker",
+    "gn:country_code":"BZ",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581443,
+    "gn:latitude":17.15805,
+    "gn:longitude":-89.13552,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Plant Sucker",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Plant Sucker"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581443
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"a0ff9a34479b8f7749b68d4c7d64a2ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1326733637,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1326733637,
+    "wof:lastmodified":1537590257,
+    "wof:name":"Plant Sucker",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.13552,
+    17.15805,
+    -89.13552,
+    17.15805
+],
+  "geometry": {"coordinates":[-89.13552,17.15805],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1327341131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.47745,18.22735,-88.47745,18.22735",
+    "geom:latitude":18.22735,
+    "geom:longitude":-88.47745,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Caledonia",
+    "gn:country_code":"BZ",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582487,
+    "gn:latitude":18.22735,
+    "gn:longitude":-88.47745,
+    "gn:modification_date":"2013-12-15",
+    "gn:name":"Caledonia",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_historical":[
+        "Santa Cruz"
+    ],
+    "name:eng_x_preferred":[
+        "Caledonia"
+    ],
+    "name:eng_x_variant":[
+        "Santa Cruz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582487
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"0653b71b865691826ba0c568f9b16fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1327341131,
+            "region_id":85669327
+        }
+    ],
+    "wof:id":1327341131,
+    "wof:lastmodified":1537590261,
+    "wof:name":"Caledonia",
+    "wof:parent_id":85669327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.47745,
+    18.22735,
+    -88.47745,
+    18.22735
+],
+  "geometry": {"coordinates":[-88.47745,18.22735],"type":"Point"}
+}

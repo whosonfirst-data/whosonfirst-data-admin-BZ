@@ -1,0 +1,69 @@
+{
+  "id": 1260089193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.04415,17.17453,-89.04415,17.17453",
+    "geom:latitude":17.17453,
+    "geom:longitude":-89.04415,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Esperanza",
+    "gn:country_code":"BZ",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582137,
+    "gn:latitude":17.17453,
+    "gn:longitude":-89.04415,
+    "gn:modification_date":"2018-03-21",
+    "gn:name":"Esperanza",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Esperanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582137,
+        "wk:page":"Esperanza,_Belize"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"9bd606230e950bddc2ac1bff809b1840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1260089193,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1260089193,
+    "wof:lastmodified":1537590260,
+    "wof:name":"Esperanza",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.04415,
+    17.17452999999999,
+    -89.04415,
+    17.17452999999999
+],
+  "geometry": {"coordinates":[-89.04415,17.17452999999999],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309828299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.10861,16.22972,-89.10861,16.22972",
+    "geom:latitude":16.22972,
+    "geom:longitude":-89.10861,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Rio Blanco",
+    "gn:cc2":"BZ",
+    "gn:country_code":"BZ",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581315,
+    "gn:latitude":16.22972,
+    "gn:longitude":-89.10861,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rio Blanco",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santa Elena",
+        "Rio Blanco"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581315
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"363e4adc3497d34513a7f4eee2d0fd45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1309828299,
+            "region_id":85669343
+        }
+    ],
+    "wof:id":1309828299,
+    "wof:lastmodified":1537590257,
+    "wof:name":"Rio Blanco",
+    "wof:parent_id":85669343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.10861,
+    16.22972,
+    -89.10861,
+    16.22972
+],
+  "geometry": {"coordinates":[-89.10861,16.22972],"type":"Point"}
+}

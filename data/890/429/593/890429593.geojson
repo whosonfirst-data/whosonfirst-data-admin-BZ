@@ -1,0 +1,117 @@
+{
+  "id": 890429593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.13917,17.075,-89.13917,17.075",
+    "geom:latitude":17.075,
+    "geom:longitude":-89.13917,
+    "gn:country":"BZ",
+    "gn:fcode":"PPL",
+    "gn:pop":7092,
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u672c\u514b\u5225\u970d\u5fb7\u723e\u5361\u9580"
+    ],
+    "name:dut_x_preferred":[
+        "Benque Viejo del Carmen"
+    ],
+    "name:eng_x_preferred":[
+        "Benque Viejo del Carmen"
+    ],
+    "name:fre_x_preferred":[
+        "Benque Viejo del Carmen"
+    ],
+    "name:ger_x_preferred":[
+        "Benque Viejo del Carmen"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e0\u05e7\u05d5 \u05d5\u05d9\u05d9\u05d7\u05d5 \u05d3\u05dc \u05db\u05e8\u05de\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Benque Viejo"
+    ],
+    "name:lit_x_preferred":[
+        "Benke Vjecho del Karmenas"
+    ],
+    "name:nob_x_preferred":[
+        "Benque Viejo del Carmen"
+    ],
+    "name:pol_x_preferred":[
+        "Benque Viejo"
+    ],
+    "name:por_x_preferred":[
+        "Benque Viejo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0435\u043d\u043a\u0435-\u0412\u044c\u0435\u0445\u043e-\u0434\u0435\u043b\u044c-\u041a\u0430\u0440\u043c\u0435\u043d"
+    ],
+    "name:sme_x_preferred":[
+        "Benque Viejo del Carmen"
+    ],
+    "name:spa_x_preferred":[
+        "Benque Viejo el Carmen"
+    ],
+    "name:swe_x_preferred":[
+        "Benque Viejo del Carmen"
+    ],
+    "name:unk_x_variant":[
+        "Bengue Viejo"
+    ],
+    "qs:name":"Benque Viejo del Carmen",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:latitude":"17.066666666",
+    "wd:longitude":"-89.133333333",
+    "wd:wordcount":682,
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582662,
+        "gp:id":81903,
+        "qs:id":149063,
+        "wd:id":"Q524851",
+        "wk:page":"Benque Viejo del Carmen"
+    },
+    "wof:country":"BZ",
+    "wof:created":1469051821,
+    "wof:geomhash":"196b6525cdc5fe9209bb6b13f6cabf0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":890429593,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":890429593,
+    "wof:lastmodified":1527792786,
+    "wof:name":"Benque Viejo del Carmen",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:population":7092,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.13917,
+    17.075,
+    -89.13917,
+    17.075
+],
+  "geometry": {"coordinates":[-89.13916999999999,17.075],"type":"Point"}
+}

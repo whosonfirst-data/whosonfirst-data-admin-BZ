@@ -1,0 +1,68 @@
+{
+  "id": 1343362241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.13717,17.13609,-89.13717,17.13609",
+    "geom:latitude":17.13609,
+    "geom:longitude":-89.13717,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Santa Rosa",
+    "gn:country_code":"BZ",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581134,
+    "gn:latitude":17.13609,
+    "gn:longitude":-89.13717,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Santa Rosa",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Santa Rosa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581134
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"bfcc05ffdf21c171b8419f899bcb1303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1343362241,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1343362241,
+    "wof:lastmodified":1537590256,
+    "wof:name":"Santa Rosa",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.13717,
+    17.13609,
+    -89.13717,
+    17.13609
+],
+  "geometry": {"coordinates":[-89.13717,17.13609],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209607779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.09899,16.09963,-89.09899,16.09963",
+    "geom:latitude":16.09963,
+    "geom:longitude":-89.09899,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Old Marbel Ha",
+    "gn:country_code":"BZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695289,
+    "gn:latitude":16.09963,
+    "gn:longitude":-89.09899,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Old Marbel Ha",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Old Marbel Ha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695289
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"47054d3bd7a597f6a52fc5b80a2c2c10",
+    "wof:hierarchy":[
+        {
+            "country_id":85632571,
+            "locality_id":1209607779
+        }
+    ],
+    "wof:id":1209607779,
+    "wof:lastmodified":1537590263,
+    "wof:name":"Old Marbel Ha",
+    "wof:parent_id":85632571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.09899,
+    16.09963,
+    -89.09899,
+    16.09963
+],
+  "geometry": {"coordinates":[-89.09899,16.09963],"type":"Point"}
+}

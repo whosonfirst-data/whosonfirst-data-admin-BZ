@@ -1,0 +1,73 @@
+{
+  "id": 1327034719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.52174,17.03996,-88.52174,17.03996",
+    "geom:latitude":17.03996,
+    "geom:longitude":-88.52174,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"Dangriga district (undefined)",
+    "gn:asciiname":"Middlesex",
+    "gn:country_code":"BZ",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581672,
+    "gn:latitude":17.03996,
+    "gn:longitude":-88.52174,
+    "gn:modification_date":"2014-08-01",
+    "gn:name":"Middlesex",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Middlesex"
+    ],
+    "name:und_x_variant":[
+        "Middlesey",
+        "Middlesex"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581672
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"232b116523f63d00f22f7536bbe5dcd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1327034719,
+            "region_id":85669337
+        }
+    ],
+    "wof:id":1327034719,
+    "wof:lastmodified":1537590258,
+    "wof:name":"Middlesex",
+    "wof:parent_id":85669337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.52174000000002,
+    17.03996,
+    -88.52174000000002,
+    17.03996
+],
+  "geometry": {"coordinates":[-88.52174000000002,17.03996],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1226440163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.16727,16.11509,-89.16727,16.11509",
+    "geom:latitude":16.11509,
+    "geom:longitude":-89.16727,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Joventud",
+    "gn:country_code":"BZ",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581868,
+    "gn:latitude":16.11509,
+    "gn:longitude":-89.16727,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Joventud",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581868
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"790e3d1b7cbd68b184a41b691867e52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1226440163,
+            "region_id":85669343
+        }
+    ],
+    "wof:id":1226440163,
+    "wof:lastmodified":1536653489,
+    "wof:name":"Joventud",
+    "wof:parent_id":85669343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.16727,
+    16.11509,
+    -89.16727,
+    16.11509
+],
+  "geometry": {"coordinates":[-89.16727,16.11509],"type":"Point"}
+}

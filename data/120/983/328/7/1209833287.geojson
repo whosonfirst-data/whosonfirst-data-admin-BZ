@@ -1,0 +1,70 @@
+{
+  "id": 1209833287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.31685,17.77922,-88.31685,17.77922",
+    "geom:latitude":17.77922,
+    "geom:longitude":-88.31685,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lucky Strike",
+    "gn:country_code":"BZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581771,
+    "gn:latitude":17.77922,
+    "gn:longitude":-88.31685,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Lucky Strike",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lucky Strike Camp",
+        "Lucky Strike"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581771,
+        "wk:page":"Lucky_Strike%2C_Belize"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"6e1f01a2bce99e4ed2333a5313f28e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1209833287,
+            "region_id":85669321
+        }
+    ],
+    "wof:id":1209833287,
+    "wof:lastmodified":1537590259,
+    "wof:name":"Lucky Strike",
+    "wof:parent_id":85669321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.31685,
+    17.77922000000001,
+    -88.31685,
+    17.77922000000001
+],
+  "geometry": {"coordinates":[-88.31685,17.77922000000001],"type":"Point"}
+}

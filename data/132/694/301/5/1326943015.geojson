@@ -1,0 +1,65 @@
+{
+  "id": 1326943015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.72683,17.38655,-88.72683,17.38655",
+    "geom:latitude":17.38655,
+    "geom:longitude":-88.72683,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Meditation",
+    "gn:country_code":"BZ",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581698,
+    "gn:latitude":17.38655,
+    "gn:longitude":-88.72683,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Meditation",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581698
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"6d2ea8b19744dbaba6ee959163659a51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1326943015,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1326943015,
+    "wof:lastmodified":1536888782,
+    "wof:name":"Meditation",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.72683,
+    17.38655,
+    -88.72683,
+    17.38655
+],
+  "geometry": {"coordinates":[-88.72683000000001,17.38655],"type":"Point"}
+}

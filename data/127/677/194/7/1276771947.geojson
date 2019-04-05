@@ -1,0 +1,71 @@
+{
+  "id": 1276771947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.1373,17.12749,-89.1373,17.12749",
+    "geom:latitude":17.12749,
+    "geom:longitude":-89.1373,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Callac Creek",
+    "gn:country_code":"BZ",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582484,
+    "gn:latitude":17.12749,
+    "gn:longitude":-89.1373,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Callac Creek",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Callac Creek"
+    ],
+    "name:eng_x_variant":[
+        "Callar Creek"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582484
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"7f4c46c5274e66c2e43d6075e52ab039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1276771947,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1276771947,
+    "wof:lastmodified":1537590261,
+    "wof:name":"Callac Creek",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.1373,
+    17.12749,
+    -89.1373,
+    17.12749
+],
+  "geometry": {"coordinates":[-89.1373,17.12749],"type":"Point"}
+}

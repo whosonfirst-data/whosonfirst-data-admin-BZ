@@ -1,0 +1,65 @@
+{
+  "id": 1309744999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.66667,17.7,-88.66667,17.7",
+    "geom:latitude":17.7,
+    "geom:longitude":-88.66667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Burnham Hall",
+    "gn:country_code":"BZ",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582519,
+    "gn:latitude":17.7,
+    "gn:longitude":-88.66667,
+    "gn:modification_date":"1993-12-18",
+    "gn:name":"Burnham Hall",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582519
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"37d1c44b31b28de345440b9c4b0790a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1309744999,
+            "region_id":85669331
+        }
+    ],
+    "wof:id":1309744999,
+    "wof:lastmodified":1537018091,
+    "wof:name":"Burnham Hall",
+    "wof:parent_id":85669331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.66667,
+    17.7,
+    -88.66667,
+    17.7
+],
+  "geometry": {"coordinates":[-88.66667,17.7],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1226552991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.94933,17.10218,-88.94933,17.10218",
+    "geom:latitude":17.10218,
+    "geom:longitude":-88.94933,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Seven Miles El Progresso",
+    "gn:country_code":"BZ",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9253690,
+    "gn:latitude":17.10218,
+    "gn:longitude":-88.94933,
+    "gn:modification_date":"2014-07-24",
+    "gn:name":"Seven Miles El Progresso",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9253690
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"8d0befb2fde20098cf2c1318b6681523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1226552991,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1226552991,
+    "wof:lastmodified":1536986738,
+    "wof:name":"Seven Miles El Progresso",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.94933,
+    17.10218,
+    -88.94933,
+    17.10218
+],
+  "geometry": {"coordinates":[-88.94933,17.10218],"type":"Point"}
+}

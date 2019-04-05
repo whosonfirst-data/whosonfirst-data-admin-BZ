@@ -1,0 +1,66 @@
+{
+  "id": 1293501439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.54203,17.77599,-88.54203,17.77599",
+    "geom:latitude":17.77599,
+    "geom:longitude":-88.54203,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Crooked Tree",
+    "gn:country_code":"BZ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582258,
+    "gn:latitude":17.77599,
+    "gn:longitude":-88.54203,
+    "gn:modification_date":"2011-04-27",
+    "gn:name":"Crooked Tree",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582258,
+        "wk:page":"Crooked_Tree%2C_Belize"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"dc1dd6fc7a36aab5118edb732209c90c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1293501439,
+            "region_id":85669321
+        }
+    ],
+    "wof:id":1293501439,
+    "wof:lastmodified":1537488928,
+    "wof:name":"Crooked Tree",
+    "wof:parent_id":85669321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.54203000000003,
+    17.77599,
+    -88.54203000000003,
+    17.77599
+],
+  "geometry": {"coordinates":[-88.54203000000003,17.77599],"type":"Point"}
+}

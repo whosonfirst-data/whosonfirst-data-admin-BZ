@@ -1,0 +1,68 @@
+{
+  "id": 1225848435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.13823,17.26419,-89.13823,17.26419",
+    "geom:latitude":17.26419,
+    "geom:longitude":-89.13823,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Fowlers Work",
+    "gn:country_code":"BZ",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695150,
+    "gn:latitude":17.26419,
+    "gn:longitude":-89.13823,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Fowlers Work",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Fowlers Work"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695150
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"af2d8991d8344f48b6c0d70311106fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1225848435,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1225848435,
+    "wof:lastmodified":1537590263,
+    "wof:name":"Fowlers Work",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.13823000000002,
+    17.26419,
+    -89.13823000000002,
+    17.26419
+],
+  "geometry": {"coordinates":[-89.13823000000002,17.26419],"type":"Point"}
+}

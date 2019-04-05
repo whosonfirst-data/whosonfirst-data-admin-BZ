@@ -1,0 +1,65 @@
+{
+  "id": 1193141177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.43454,17.25753,-88.43454,17.25753",
+    "geom:latitude":17.25753,
+    "geom:longitude":-88.43454,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bocotora",
+    "gn:country_code":"BZ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582570,
+    "gn:latitude":17.25753,
+    "gn:longitude":-88.43454,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Bocotora",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582570
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"38579335d1614f6661a7f39e2dc67ea5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1193141177,
+            "region_id":85669321
+        }
+    ],
+    "wof:id":1193141177,
+    "wof:lastmodified":1536365845,
+    "wof:name":"Bocotora",
+    "wof:parent_id":85669321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.43454,
+    17.25753,
+    -88.43454,
+    17.25753
+],
+  "geometry": {"coordinates":[-88.43454,17.25753],"type":"Point"}
+}

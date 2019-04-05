@@ -1,0 +1,83 @@
+{
+  "id": 421195373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.33333,17.75,-88.33333,17.75",
+    "geom:latitude":17.75,
+    "geom:longitude":-88.33333,
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Rockstone Pond"
+    ],
+    "name:eng_x_preferred":[
+        "Rockstone Pond"
+    ],
+    "qs:gn_country":"BZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3581288,
+    "qs:gn_pop":0,
+    "qs:name":"Rockstone Pond",
+    "qs:name_adm0":"Belize",
+    "qs:name_adm1":"Belize",
+    "qs:photos":315,
+    "qs:photos_1k":64,
+    "qs:photos_9k":1,
+    "qs:photos_9r":5,
+    "qs:photos_all":315,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"3",
+    "qs:qs_id":149059,
+    "qs:woe_adm0":23424760,
+    "qs:woe_id":57449,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581288,
+        "gp:id":57449,
+        "qs:id":149059,
+        "wd:id":"Q7355598",
+        "wk:page":"Rockstone Pond"
+    },
+    "wof:country":"BZ",
+    "wof:created":1459009841,
+    "wof:geomhash":"956e3d79fda68ae5157eb6a1f5859fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":421195373,
+            "region_id":85669321
+        }
+    ],
+    "wof:id":421195373,
+    "wof:lastmodified":1527716126,
+    "wof:name":"Rockstone Pond",
+    "wof:parent_id":85669321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.33333,
+    17.75,
+    -88.33333,
+    17.75
+],
+  "geometry": {"coordinates":[-88.33333,17.75],"type":"Point"}
+}

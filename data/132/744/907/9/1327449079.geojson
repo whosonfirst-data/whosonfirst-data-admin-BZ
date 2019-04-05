@@ -1,0 +1,66 @@
+{
+  "id": 1327449079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.57274,17.52894,-88.57274,17.52894",
+    "geom:latitude":17.52894,
+    "geom:longitude":-88.57274,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Willows Bank",
+    "gn:country_code":"BZ",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580805,
+    "gn:latitude":17.52894,
+    "gn:longitude":-88.57274,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Willows Bank",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580805,
+        "wk:page":"Willows_Bank"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"fccb243b1c6b8e8c821c12fcec497ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1327449079,
+            "region_id":85669321
+        }
+    ],
+    "wof:id":1327449079,
+    "wof:lastmodified":1537488924,
+    "wof:name":"Willows Bank",
+    "wof:parent_id":85669321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.57274,
+    17.52894,
+    -88.57274,
+    17.52894
+],
+  "geometry": {"coordinates":[-88.57274,17.52894],"type":"Point"}
+}

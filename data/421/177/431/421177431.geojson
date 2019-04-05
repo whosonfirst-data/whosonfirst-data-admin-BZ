@@ -1,0 +1,75 @@
+{
+  "id": 421177431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.88333,16.25,-88.88333,16.25",
+    "geom:latitude":16.25,
+    "geom:longitude":-88.88333,
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3582645,
+    "qs:gn_pop":0,
+    "qs:name":"Big Fall",
+    "qs:name_adm0":"Belize",
+    "qs:name_adm1":"Toledo",
+    "qs:photos":223,
+    "qs:photos_1k":45,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":223,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1340554,
+    "qs:woe_adm0":23424760,
+    "qs:woe_id":57179,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":65,
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582645,
+        "gp:id":57179,
+        "qs:id":1340554,
+        "wd:id":"Q7717620"
+    },
+    "wof:country":"BZ",
+    "wof:created":1459009144,
+    "wof:geomhash":"370cc21a16262a30db4b72f2418b5484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":421177431,
+            "region_id":85669343
+        }
+    ],
+    "wof:id":421177431,
+    "wof:lastmodified":1527716480,
+    "wof:name":"Big Fall",
+    "wof:parent_id":85669343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.88333,
+    16.25,
+    -88.88333,
+    16.25
+],
+  "geometry": {"coordinates":[-88.88333,16.25],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226744851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.08012,16.10543,-89.08012,16.10543",
+    "geom:latitude":16.10543,
+    "geom:longitude":-89.08012,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"New Mahbilla",
+    "gn:country_code":"BZ",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695291,
+    "gn:latitude":16.10543,
+    "gn:longitude":-89.08012,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"New Mahbilla",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "New Mahbilla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695291
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"2ee50e9e8aadef6e69d644870955de51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1226744851,
+            "region_id":85669343
+        }
+    ],
+    "wof:id":1226744851,
+    "wof:lastmodified":1537590263,
+    "wof:name":"New Mahbilla",
+    "wof:parent_id":85669343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.08012,
+    16.10543,
+    -89.08012,
+    16.10543
+],
+  "geometry": {"coordinates":[-89.08011999999999,16.10543],"type":"Point"}
+}

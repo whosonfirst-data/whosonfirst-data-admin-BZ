@@ -1,0 +1,133 @@
+{
+  "id": 85793527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":34334349.848151,
+    "geom:bbox":"-88.187419,17.498224,-88.187419,17.498224",
+    "geom:latitude":17.498224,
+    "geom:longitude":-88.187419,
+    "gn:gn_country":"BZ",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":17.49434,
+    "gn:longitude":-88.1829,
+    "iso:country":"BZ",
+    "lbl:latitude":17.498224,
+    "lbl:longitude":-88.187419,
+    "mps:latitude":17.495842,
+    "mps:longitude":-88.188139,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Fort George"
+    ],
+    "name:eng_x_variant":[
+        "Ft George"
+    ],
+    "name:unk_x_variant":[
+        "Fort George"
+    ],
+    "qs:gn_adm0_cc":"BZ",
+    "qs:gn_fcode":"PPLX",
+    "qs:gn_local":3582677,
+    "qs:gn_namadm1":"01",
+    "qs:gn_name":"Fort George",
+    "qs:local_max":4484,
+    "qs:local_sum":4484,
+    "qs:localhoods":1,
+    "qs:name":"Fort George",
+    "qs:name_adm0":"Belize",
+    "qs:name_adm1":"Belize",
+    "qs:name_local":"Belize City",
+    "qs:photo_max":510,
+    "qs:photo_sum":4484,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":70,
+    "qs:woe_adm0":23424760,
+    "qs:woe_adm1":2344794,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":57171,
+    "qs:woe_ver":"7.10.0",
+    "qs_pg:aaroncc":"BZ",
+    "qs_pg:gn_country":"BZ",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3582094,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Fort George",
+    "qs_pg:name_adm0":"Belize",
+    "qs_pg:name_adm1":"Belize",
+    "qs_pg:photos":4357,
+    "qs_pg:photos_1k":883,
+    "qs_pg:photos_9k":19,
+    "qs_pg:photos_9r":13,
+    "qs_pg:photos_all":4357,
+    "qs_pg:photos_sr":23,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082568,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424760,
+    "qs_pg:woe_id":57299,
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":424,
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582094,
+        "gp:id":57299,
+        "qs:id":1082568,
+        "qs_pg:id":1082568
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"e27f51ea1c223d0732948d2a59ade325",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":-1,
+            "neighbourhood_id":85793527,
+            "region_id":85669321
+        }
+    ],
+    "wof:id":85793527,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1534379244,
+    "wof:name":"Fort George",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1126090373
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.187419,
+    17.498224,
+    -88.187419,
+    17.498224
+],
+  "geometry": {"coordinates":[-88.18741900000001,17.498224],"type":"Point"}
+}

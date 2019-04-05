@@ -1,0 +1,68 @@
+{
+  "id": 1293522545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.1,17.4,-89.1,17.4",
+    "geom:latitude":17.4,
+    "geom:longitude":-89.1,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chan Pond",
+    "gn:country_code":"BZ",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582391,
+    "gn:latitude":17.4,
+    "gn:longitude":-89.1,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Chan Pond",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chan Pond"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582391
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"f1857e16deac8e8e9eefb49d15379beb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1293522545,
+            "region_id":85669331
+        }
+    ],
+    "wof:id":1293522545,
+    "wof:lastmodified":1537590261,
+    "wof:name":"Chan Pond",
+    "wof:parent_id":85669331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.1,
+    17.4,
+    -89.1,
+    17.4
+],
+  "geometry": {"coordinates":[-89.09999999999999,17.4],"type":"Point"}
+}

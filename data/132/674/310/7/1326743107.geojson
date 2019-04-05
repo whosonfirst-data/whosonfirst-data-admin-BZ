@@ -1,0 +1,76 @@
+{
+  "id": 1326743107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.13007,17.08454,-89.13007,17.08454",
+    "geom:latitude":17.08454,
+    "geom:longitude":-89.13007,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"San Jose Soccoths",
+    "gn:country_code":"BZ",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581184,
+    "gn:latitude":17.08454,
+    "gn:longitude":-89.13007,
+    "gn:modification_date":"2018-03-21",
+    "gn:name":"San Jose Soccoths",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San Jose Succotz",
+        "Socotz",
+        "Jocote",
+        "Succotz",
+        "Succoths",
+        "Soccotz",
+        "Tzokotz",
+        "San Jose Soccoths"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581184,
+        "wk:page":"San_Jose_Succotz"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"2ef147ff060fdfd05182bb85d0f6d99a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1326743107,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1326743107,
+    "wof:lastmodified":1537590256,
+    "wof:name":"San Jose Soccoths",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.13006999999998,
+    17.08454,
+    -89.13006999999998,
+    17.08454
+],
+  "geometry": {"coordinates":[-89.13006999999998,17.08454],"type":"Point"}
+}

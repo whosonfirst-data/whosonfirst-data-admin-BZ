@@ -1,0 +1,66 @@
+{
+  "id": 1209109345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.03222,16.86778,-89.03222,16.86778",
+    "geom:latitude":16.86778,
+    "geom:longitude":-89.03222,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Guacamallo",
+    "gn:cc2":"BZ",
+    "gn:country_code":"BZ",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":3581990,
+    "gn:latitude":16.86778,
+    "gn:longitude":-89.03222,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Guacamallo",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Guacamallo Camp",
+        "Guacamallo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581990
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"beb3993aaf26d796dec775a00146a58c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632571,
+            "locality_id":1209109345
+        }
+    ],
+    "wof:id":1209109345,
+    "wof:lastmodified":1537590259,
+    "wof:name":"Guacamallo",
+    "wof:parent_id":85632571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.03222,
+    16.86778,
+    -89.03222,
+    16.86778
+],
+  "geometry": {"coordinates":[-89.03222,16.86778],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209628381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.02113,17.20217,-89.02113,17.20217",
+    "geom:latitude":17.20217,
+    "geom:longitude":-89.02113,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Listowel",
+    "gn:country_code":"BZ",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581815,
+    "gn:latitude":17.20217,
+    "gn:longitude":-89.02113,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Listowel",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Listowel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581815
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"484a1687112c07d5671f953f4eae5263",
+    "wof:hierarchy":[
+        {
+            "country_id":85632571,
+            "locality_id":1209628381
+        }
+    ],
+    "wof:id":1209628381,
+    "wof:lastmodified":1537590259,
+    "wof:name":"Listowel",
+    "wof:parent_id":85632571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.02113,
+    17.20217,
+    -89.02113,
+    17.20217
+],
+  "geometry": {"coordinates":[-89.02113,17.20217],"type":"Point"}
+}

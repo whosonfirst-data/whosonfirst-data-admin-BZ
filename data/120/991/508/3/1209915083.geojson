@@ -1,0 +1,69 @@
+{
+  "id": 1209915083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.91699,17.88432,-88.91699,17.88432",
+    "geom:latitude":17.88432,
+    "geom:longitude":-88.91699,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tres Leguas Mennonite Settlement",
+    "gn:country_code":"BZ",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLR",
+    "gn:geonameid":3580896,
+    "gn:latitude":17.88432,
+    "gn:longitude":-88.91699,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Tres Leguas Mennonite Settlement",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tres Leguas Menonite Settlement",
+        "Tres Leguas Mennonite Settlement"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580896
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"f943adc1802aae73291e0cdd94b44ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1209915083,
+            "region_id":85669331
+        }
+    ],
+    "wof:id":1209915083,
+    "wof:lastmodified":1537590255,
+    "wof:name":"Tres Leguas Mennonite Settlement",
+    "wof:parent_id":85669331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.91699,
+    17.88432000000001,
+    -88.91699,
+    17.88432000000001
+],
+  "geometry": {"coordinates":[-88.91699,17.88432000000001],"type":"Point"}
+}

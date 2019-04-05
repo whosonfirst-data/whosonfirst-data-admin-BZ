@@ -1,0 +1,70 @@
+{
+  "id": 1259789425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.98195,17.9271,-88.98195,17.9271",
+    "geom:latitude":17.9271,
+    "geom:longitude":-88.98195,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Edenthal",
+    "gn:country_code":"BZ",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582163,
+    "gn:latitude":17.9271,
+    "gn:longitude":-88.98195,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Edenthal",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Campamento Tintal",
+        "Tintal",
+        "Edenthal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582163
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"35eb55d1621bfb04dac0be8e5f26b600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1259789425,
+            "region_id":85669331
+        }
+    ],
+    "wof:id":1259789425,
+    "wof:lastmodified":1537590260,
+    "wof:name":"Edenthal",
+    "wof:parent_id":85669331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.98195,
+    17.9271,
+    -88.98195,
+    17.9271
+],
+  "geometry": {"coordinates":[-88.98195,17.9271],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293699481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.14519,17.05505,-89.14519,17.05505",
+    "geom:latitude":17.05505,
+    "geom:longitude":-89.14519,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Garbutt's Falls",
+    "gn:country_code":"BZ",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582049,
+    "gn:latitude":17.05505,
+    "gn:longitude":-89.14519,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Garbutt\u2019s Falls",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Garbutt\u2019s Falls"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582049
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"884d65ae411f033eda701b031ff4ad4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1293699481,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1293699481,
+    "wof:lastmodified":1537590259,
+    "wof:name":"Garbutt's Falls",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.14519,
+    17.05505,
+    -89.14519,
+    17.05505
+],
+  "geometry": {"coordinates":[-89.14519,17.05505],"type":"Point"}
+}

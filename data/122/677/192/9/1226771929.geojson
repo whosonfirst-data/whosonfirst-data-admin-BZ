@@ -1,0 +1,68 @@
+{
+  "id": 1226771929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.09556,16.10744,-89.09556,16.10744",
+    "geom:latitude":16.10744,
+    "geom:longitude":-89.09556,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Old Mabilha",
+    "gn:country_code":"BZ",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695290,
+    "gn:latitude":16.10744,
+    "gn:longitude":-89.09556,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Old Mabilha",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Old Mabilha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695290
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"060df2e542da9346d0a1ca90f6b6a307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1226771929,
+            "region_id":85669343
+        }
+    ],
+    "wof:id":1226771929,
+    "wof:lastmodified":1537590263,
+    "wof:name":"Old Mabilha",
+    "wof:parent_id":85669343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.09555999999998,
+    16.10744,
+    -89.09555999999998,
+    16.10744
+],
+  "geometry": {"coordinates":[-89.09555999999998,16.10744],"type":"Point"}
+}

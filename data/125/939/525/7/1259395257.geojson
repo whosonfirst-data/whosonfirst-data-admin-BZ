@@ -1,0 +1,70 @@
+{
+  "id": 1259395257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.01,16.78472,-89.01,16.78472",
+    "geom:latitude":16.78472,
+    "geom:longitude":-89.01,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Cubetas",
+    "gn:cc2":"BZ",
+    "gn:country_code":"BZ",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582248,
+    "gn:latitude":16.78472,
+    "gn:longitude":-89.01,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cubetas",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cubeta Camp",
+        "Cubetas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582248
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"44f7d3c594cad31e940f16536ec21268",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1259395257,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1259395257,
+    "wof:lastmodified":1537590260,
+    "wof:name":"Cubetas",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.01,
+    16.78472,
+    -89.01,
+    16.78472
+],
+  "geometry": {"coordinates":[-89.01000000000001,16.78472],"type":"Point"}
+}

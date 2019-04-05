@@ -1,0 +1,70 @@
+{
+  "id": 1310707929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.88982,17.8932,-88.88982,17.8932",
+    "geom:latitude":17.8932,
+    "geom:longitude":-88.88982,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Blue Creek Village",
+    "gn:country_code":"BZ",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582587,
+    "gn:latitude":17.8932,
+    "gn:longitude":-88.88982,
+    "gn:modification_date":"2018-03-21",
+    "gn:name":"Blue Creek Village",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Blue Creek",
+        "Blue Creek Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582587,
+        "wk:page":"Blue_Creek,_Orange_Walk"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"8faace101d6b6c9a45de3490492d9bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1310707929,
+            "region_id":85669331
+        }
+    ],
+    "wof:id":1310707929,
+    "wof:lastmodified":1537590262,
+    "wof:name":"Blue Creek Village",
+    "wof:parent_id":85669331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.88982,
+    17.8932,
+    -88.88982,
+    17.8932
+],
+  "geometry": {"coordinates":[-88.88982,17.8932],"type":"Point"}
+}

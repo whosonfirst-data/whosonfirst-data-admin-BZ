@@ -1,0 +1,65 @@
+{
+  "id": 1293796997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.93859,16.79187,-88.93859,16.79187",
+    "geom:latitude":16.79187,
+    "geom:longitude":-88.93859,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Blue Hole Camp",
+    "gn:country_code":"BZ",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582582,
+    "gn:latitude":16.79187,
+    "gn:longitude":-88.93859,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Blue Hole Camp",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582582
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"bc44e8cd15af25cd11cc816ef0773aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1293796997,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1293796997,
+    "wof:lastmodified":1536836834,
+    "wof:name":"Blue Hole Camp",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.93859,
+    16.79187,
+    -88.93859,
+    16.79187
+],
+  "geometry": {"coordinates":[-88.93859,16.79187],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1193022025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.68052,18.15743,-88.68052,18.15743",
+    "geom:latitude":18.15743,
+    "geom:longitude":-88.68052,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Campechito",
+    "gn:country_code":"BZ",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8694993,
+    "gn:latitude":18.15743,
+    "gn:longitude":-88.68052,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Campechito",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Campechito"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8694993
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"4624e9fefe0b0afa64f3690caccd8e08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1193022025,
+            "region_id":85669331
+        }
+    ],
+    "wof:id":1193022025,
+    "wof:lastmodified":1537590263,
+    "wof:name":"Campechito",
+    "wof:parent_id":85669331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.68052,
+    18.15743,
+    -88.68052,
+    18.15743
+],
+  "geometry": {"coordinates":[-88.68052,18.15743],"type":"Point"}
+}

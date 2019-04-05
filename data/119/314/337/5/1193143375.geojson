@@ -1,0 +1,66 @@
+{
+  "id": 1193143375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.65744,17.75392,-88.65744,17.75392",
+    "geom:latitude":17.75392,
+    "geom:longitude":-88.65744,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Indian Church",
+    "gn:country_code":"BZ",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581904,
+    "gn:latitude":17.75392,
+    "gn:longitude":-88.65744,
+    "gn:modification_date":"2013-05-30",
+    "gn:name":"Indian Church",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581904,
+        "wk:page":"Indian_Church%2C_Belize"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"6425debca105f6697f54eba61a83c0a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1193143375,
+            "region_id":85669331
+        }
+    ],
+    "wof:id":1193143375,
+    "wof:lastmodified":1537488927,
+    "wof:name":"Indian Church",
+    "wof:parent_id":85669331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.65744000000002,
+    17.75392,
+    -88.65744000000002,
+    17.75392
+],
+  "geometry": {"coordinates":[-88.65744000000002,17.75392],"type":"Point"}
+}

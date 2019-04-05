@@ -1,0 +1,75 @@
+{
+  "id": 421175659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.46667,17.4,-88.46667,17.4",
+    "geom:latitude":17.4,
+    "geom:longitude":-88.46667,
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"BZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3581287,
+    "qs:gn_pop":0,
+    "qs:name":"Rockville",
+    "qs:name_adm0":"Belize",
+    "qs:name_adm1":"Belize",
+    "qs:photos":40,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":40,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"4",
+    "qs:qs_id":1023450,
+    "qs:woe_adm0":23424760,
+    "qs:woe_id":57450,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":226,
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581287,
+        "gp:id":57450,
+        "qs:id":1023450
+    },
+    "wof:country":"BZ",
+    "wof:created":1459009075,
+    "wof:geomhash":"f9e6d1024d1dd541f909bc4c44779d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":421175659,
+            "region_id":85669321
+        }
+    ],
+    "wof:id":421175659,
+    "wof:lastmodified":1527716338,
+    "wof:name":"Rockville",
+    "wof:parent_id":85669321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.46667,
+    17.4,
+    -88.46667,
+    17.4
+],
+  "geometry": {"coordinates":[-88.46666999999999,17.4],"type":"Point"}
+}

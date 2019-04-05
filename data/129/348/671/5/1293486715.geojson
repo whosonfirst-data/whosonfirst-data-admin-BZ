@@ -1,0 +1,81 @@
+{
+  "id": 1293486715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.36647,16.51419,-88.36647,16.51419",
+    "geom:latitude":16.51419,
+    "geom:longitude":-88.36647,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Placencia",
+    "gn:country_code":"BZ",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581447,
+    "gn:latitude":16.51419,
+    "gn:longitude":-88.36647,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Placencia",
+    "gn:population":4300,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Placencia"
+    ],
+    "name:eng_x_variant":[
+        "Placentia Village"
+    ],
+    "name:und_x_variant":[
+        "Point Placentia",
+        "Punta Placencia",
+        "Plasencia",
+        "Placentia",
+        "Placencia Village"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581447,
+        "wk:page":"Placencia"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"2155f6dd0f9895523fd144f56b153e2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1293486715,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293486715,
+    "wof:lastmodified":1537590258,
+    "wof:name":"Placencia",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":4300,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.36646999999998,
+    16.51419,
+    -88.36646999999998,
+    16.51419
+],
+  "geometry": {"coordinates":[-88.36646999999998,16.51419],"type":"Point"}
+}

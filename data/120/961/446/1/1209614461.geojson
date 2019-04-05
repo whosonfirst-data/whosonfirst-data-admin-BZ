@@ -1,0 +1,64 @@
+{
+  "id": 1209614461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.60616,16.51444,-88.60616,16.51444",
+    "geom:latitude":16.51444,
+    "geom:longitude":-88.60616,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Trion Village",
+    "gn:country_code":"BZ",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695457,
+    "gn:latitude":16.51444,
+    "gn:longitude":-88.60616,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Trion Village",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Trion Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695457
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"05b57c479404cad8b6d5c7a18c3b5559",
+    "wof:hierarchy":[
+        {
+            "country_id":85632571,
+            "locality_id":1209614461
+        }
+    ],
+    "wof:id":1209614461,
+    "wof:lastmodified":1537590264,
+    "wof:name":"Trion Village",
+    "wof:parent_id":85632571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.60616,
+    16.51444,
+    -88.60616,
+    16.51444
+],
+  "geometry": {"coordinates":[-88.60616,16.51444],"type":"Point"}
+}

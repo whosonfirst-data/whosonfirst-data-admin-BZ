@@ -1,0 +1,68 @@
+{
+  "id": 1343881021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.53082,17.04044,-88.53082,17.04044",
+    "geom:latitude":17.04044,
+    "geom:longitude":-88.53082,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Humming Bird Community",
+    "gn:country_code":"BZ",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695165,
+    "gn:latitude":17.04044,
+    "gn:longitude":-88.53082,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Humming Bird Community",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Humming Bird Community"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695165
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"bc5014277cc6330a80afa03c05db46a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1343881021,
+            "region_id":85669337
+        }
+    ],
+    "wof:id":1343881021,
+    "wof:lastmodified":1537590263,
+    "wof:name":"Humming Bird Community",
+    "wof:parent_id":85669337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.53081999999998,
+    17.04044,
+    -88.53081999999998,
+    17.04044
+],
+  "geometry": {"coordinates":[-88.53081999999998,17.04044],"type":"Point"}
+}

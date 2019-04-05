@@ -1,0 +1,86 @@
+{
+  "id": 421202805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.28333,17.8,-88.28333,17.8",
+    "geom:latitude":17.8,
+    "geom:longitude":-88.28333,
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Santana"
+    ],
+    "name:eng_x_preferred":[
+        "Santana"
+    ],
+    "name:unk_x_variant":[
+        "Santana Village"
+    ],
+    "qs:gn_country":"BZ",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3581139,
+    "qs:gn_pop":0,
+    "qs:name":"Santana",
+    "qs:name_adm0":"Belize",
+    "qs:name_adm1":"Belize",
+    "qs:photos":170,
+    "qs:photos_1k":34,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":170,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":228520,
+    "qs:woe_adm0":23424760,
+    "qs:woe_id":57509,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":79,
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581139,
+        "gp:id":57509,
+        "qs:id":228520,
+        "wd:id":"Q7420034",
+        "wk:page":"Santana, Belize"
+    },
+    "wof:country":"BZ",
+    "wof:created":1459010130,
+    "wof:geomhash":"a2ed1e07c03e9e189614d1d38680e225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":421202805,
+            "region_id":85669321
+        }
+    ],
+    "wof:id":421202805,
+    "wof:lastmodified":1527716207,
+    "wof:name":"Santana",
+    "wof:parent_id":85669321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.28333,
+    17.8,
+    -88.28333,
+    17.8
+],
+  "geometry": {"coordinates":[-88.28333000000001,17.8],"type":"Point"}
+}

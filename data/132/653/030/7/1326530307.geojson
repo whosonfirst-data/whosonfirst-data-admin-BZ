@@ -1,0 +1,65 @@
+{
+  "id": 1326530307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.4927,18.16246,-88.4927,18.16246",
+    "geom:latitude":18.16246,
+    "geom:longitude":-88.4927,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Blossom Bank",
+    "gn:country_code":"BZ",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582597,
+    "gn:latitude":18.16246,
+    "gn:longitude":-88.4927,
+    "gn:modification_date":"2014-02-08",
+    "gn:name":"Blossom Bank",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582597
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"41c11e303736ca6e7ae61ecf7a08f2b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1326530307,
+            "region_id":85669331
+        }
+    ],
+    "wof:id":1326530307,
+    "wof:lastmodified":1536986034,
+    "wof:name":"Blossom Bank",
+    "wof:parent_id":85669331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.4927,
+    18.16246,
+    -88.4927,
+    18.16246
+],
+  "geometry": {"coordinates":[-88.4927,18.16246],"type":"Point"}
+}

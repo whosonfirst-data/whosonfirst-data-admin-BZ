@@ -1,0 +1,74 @@
+{
+  "id": 1327043877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.02761,17.73659,-88.02761,17.73659",
+    "geom:latitude":17.73659,
+    "geom:longitude":-88.02761,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Caye Caulker",
+    "gn:country_code":"BZ",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582431,
+    "gn:latitude":17.73659,
+    "gn:longitude":-88.02761,
+    "gn:modification_date":"2015-08-05",
+    "gn:name":"Caye Caulker",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Caye Caulker"
+    ],
+    "name:fra_x_preferred":[
+        "Caye Caulker"
+    ],
+    "name:spa_x_preferred":[
+        "Cayo Corker"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582431,
+        "wk:page":"Caye_Caulker"
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"5d312a5f99769f850d95fcb22058f2ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1327043877,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327043877,
+    "wof:lastmodified":1537488929,
+    "wof:name":"Caye Caulker",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.02761,
+    17.73659,
+    -88.02761,
+    17.73659
+],
+  "geometry": {"coordinates":[-88.02761,17.73659],"type":"Point"}
+}

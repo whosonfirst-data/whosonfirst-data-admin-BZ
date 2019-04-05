@@ -1,0 +1,70 @@
+{
+  "id": 1226756363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.1,17.28333,-89.1,17.28333",
+    "geom:latitude":17.28333,
+    "geom:longitude":-89.1,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Cadena Creek Camp",
+    "gn:cc2":"BZ",
+    "gn:country_code":"BZ",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3582498,
+    "gn:latitude":17.28333,
+    "gn:longitude":-89.1,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Cadena Creek Camp",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cadena Camp",
+        "Cadena Creek Camp"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3582498
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"24d0aca44dece9e7ea13a5404bf707c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1226756363,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1226756363,
+    "wof:lastmodified":1537590261,
+    "wof:name":"Cadena Creek Camp",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.1,
+    17.28333,
+    -89.1,
+    17.28333
+],
+  "geometry": {"coordinates":[-89.09999999999999,17.28333],"type":"Point"}
+}

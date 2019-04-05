@@ -1,0 +1,68 @@
+{
+  "id": 1343765209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.08535,17.31397,-89.08535,17.31397",
+    "geom:latitude":17.31397,
+    "geom:longitude":-89.08535,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Long Bridge",
+    "gn:country_code":"BZ",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581795,
+    "gn:latitude":17.31397,
+    "gn:longitude":-89.08535,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Long Bridge",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Long Bridge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581795
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"a87ab42ad38583141e7c6910b695e3df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1343765209,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1343765209,
+    "wof:lastmodified":1537590259,
+    "wof:name":"Long Bridge",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.08535,
+    17.31397,
+    -89.08535,
+    17.31397
+],
+  "geometry": {"coordinates":[-89.08535000000001,17.31397],"type":"Point"}
+}

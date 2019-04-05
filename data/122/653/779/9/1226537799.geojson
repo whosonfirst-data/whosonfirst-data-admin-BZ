@@ -1,0 +1,68 @@
+{
+  "id": 1226537799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.8317,16.31509,-88.8317,16.31509",
+    "geom:latitude":16.31509,
+    "geom:longitude":-88.8317,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Indian Creek Village",
+    "gn:country_code":"BZ",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695405,
+    "gn:latitude":16.31509,
+    "gn:longitude":-88.8317,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Indian Creek Village",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Indian Creek Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695405
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"77da0e82f820133f234262abf528ca2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1226537799,
+            "region_id":85669343
+        }
+    ],
+    "wof:id":1226537799,
+    "wof:lastmodified":1537590264,
+    "wof:name":"Indian Creek Village",
+    "wof:parent_id":85669343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.8317,
+    16.31509,
+    -88.8317,
+    16.31509
+],
+  "geometry": {"coordinates":[-88.8317,16.31509],"type":"Point"}
+}

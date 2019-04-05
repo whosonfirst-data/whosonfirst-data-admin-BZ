@@ -1,0 +1,68 @@
+{
+  "id": 1327038771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-88.67202,17.27851,-88.67202,17.27851",
+    "geom:latitude":17.27851,
+    "geom:longitude":-88.67202,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Beaver Dam",
+    "gn:country_code":"BZ",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695152,
+    "gn:latitude":17.27851,
+    "gn:longitude":-88.67202,
+    "gn:modification_date":"2014-02-16",
+    "gn:name":"Beaver Dam",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Beaver Dam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695152
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"19271b240fb37ad4b672e5e102120695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1327038771,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1327038771,
+    "wof:lastmodified":1537590263,
+    "wof:name":"Beaver Dam",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -88.67201999999997,
+    17.27851,
+    -88.67201999999997,
+    17.27851
+],
+  "geometry": {"coordinates":[-88.67201999999997,17.27851],"type":"Point"}
+}

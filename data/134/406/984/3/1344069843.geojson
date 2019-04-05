@@ -1,0 +1,68 @@
+{
+  "id": 1344069843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.02348,17.18251,-89.02348,17.18251",
+    "geom:latitude":17.18251,
+    "geom:longitude":-89.02348,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"San Miguel",
+    "gn:country_code":"BZ",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3581171,
+    "gn:latitude":17.18251,
+    "gn:longitude":-89.02348,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"San Miguel",
+    "gn:population":0,
+    "gn:timezone":"America/Belize",
+    "iso:country":"BZ",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "San Miguel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632571,
+        85669323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3581171
+    },
+    "wof:country":"BZ",
+    "wof:geomhash":"589d2f94b72a69a3686d765fb98d0bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632571,
+            "locality_id":1344069843,
+            "region_id":85669323
+        }
+    ],
+    "wof:id":1344069843,
+    "wof:lastmodified":1537590256,
+    "wof:name":"San Miguel",
+    "wof:parent_id":85669323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.02348,
+    17.18251,
+    -89.02348,
+    17.18251
+],
+  "geometry": {"coordinates":[-89.02348000000001,17.18251],"type":"Point"}
+}
