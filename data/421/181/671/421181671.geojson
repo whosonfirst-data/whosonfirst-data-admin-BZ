@@ -5,13 +5,24 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.41797,18.380592,-88.41797,18.380592",
     "geom:latitude":18.380592,
     "geom:longitude":-88.41797,
     "iso:country":"BZ",
+    "label:eng_x_preferred_longname":[
+        "Othon P. Blanco County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
     "name:fra_x_preferred":[
+        "Oth\u00f3n P. Blanco"
+    ],
+    "name:fre_x_preferred":[
         "Oth\u00f3n P. Blanco"
     ],
     "name:nld_x_preferred":[
@@ -60,7 +71,7 @@
     },
     "wof:country":"BZ",
     "wof:created":1459009303,
-    "wof:geomhash":"3b46acf7a5e7a820a2b7040fc6c350b1",
+    "wof:geomhash":"cdab2fa3635c5e65e578b8cdc68dc9be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,7 +81,7 @@
         }
     ],
     "wof:id":421181671,
-    "wof:lastmodified":1467245864,
+    "wof:lastmodified":1555220345,
     "wof:name":"Othon P. Blanco",
     "wof:parent_id":85669327,
     "wof:placetype":"county",
