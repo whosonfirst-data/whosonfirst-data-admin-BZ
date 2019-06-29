@@ -19,25 +19,13 @@
     "name:ceb_x_preferred":[
         "San Ignacio"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u4f0a\u683c\u7d0d\u897f\u5967"
-    ],
     "name:deu_x_preferred":[
-        "San Ignacio"
-    ],
-    "name:dut_x_preferred":[
         "San Ignacio"
     ],
     "name:eng_x_preferred":[
         "San Ignacio"
     ],
     "name:fra_x_preferred":[
-        "San Ignacio"
-    ],
-    "name:fre_x_preferred":[
-        "San Ignacio"
-    ],
-    "name:ger_x_preferred":[
         "San Ignacio"
     ],
     "name:heb_x_preferred":[
@@ -149,7 +137,7 @@
         }
     ],
     "wof:id":421173023,
-    "wof:lastmodified":1553816363,
+    "wof:lastmodified":1561844150,
     "wof:name":"San Ignacio",
     "wof:parent_id":85669323,
     "wof:placetype":"locality",

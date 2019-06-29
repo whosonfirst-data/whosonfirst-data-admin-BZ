@@ -23,25 +23,13 @@
     "name:ceb_x_preferred":[
         "Orange Walk"
     ],
-    "name:chi_x_preferred":[
-        "\u6a58\u5712\u93ae"
-    ],
     "name:deu_x_preferred":[
-        "Orange Walk Town"
-    ],
-    "name:dut_x_preferred":[
         "Orange Walk Town"
     ],
     "name:eng_x_preferred":[
         "Orange Walk"
     ],
     "name:fra_x_preferred":[
-        "Orange Walk Town"
-    ],
-    "name:fre_x_preferred":[
-        "Orange Walk Town"
-    ],
-    "name:ger_x_preferred":[
         "Orange Walk Town"
     ],
     "name:heb_x_preferred":[
@@ -235,7 +223,7 @@
         }
     ],
     "wof:id":421173003,
-    "wof:lastmodified":1527716260,
+    "wof:lastmodified":1561844150,
     "wof:name":"Orange Walk",
     "wof:parent_id":85669331,
     "wof:placetype":"locality",

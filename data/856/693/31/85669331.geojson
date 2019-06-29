@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.401654,
-    "geom:area_square_m":4729566920.376495,
+    "geom:area_square_m":4729566920.37648,
     "geom:bbox":"-89.1613746745,17.3210320802,-88.2843472968,18.247028189",
     "geom:latitude":17.768711,
     "geom:longitude":-88.812787,
@@ -37,14 +37,14 @@
     "name:cat_x_preferred":[
         "Districte d'Orange Walk"
     ],
-    "name:chi_x_preferred":[
-        "\u6a58\u5712\u5340"
-    ],
     "name:dan_x_preferred":[
         "Orange Walk"
     ],
-    "name:dut_x_preferred":[
-        "Orange Walk"
+    "name:deu_x_preferred":[
+        "Orange Walk District"
+    ],
+    "name:ell_x_preferred":[
+        "\u038c\u03c1\u03b1\u03bd\u03c4\u03b6 \u0393\u03bf\u03c5\u03cc\u03bb\u03ba"
     ],
     "name:eng_x_preferred":[
         "Orange Walk"
@@ -58,14 +58,8 @@
     "name:fra_x_preferred":[
         "Orange Walk"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "District d'Orange Walk"
-    ],
-    "name:ger_x_preferred":[
-        "Orange Walk District"
-    ],
-    "name:gre_x_preferred":[
-        "\u038c\u03c1\u03b1\u03bd\u03c4\u03b6 \u0393\u03bf\u03c5\u03cc\u03bb\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab0\u0ac7\u0aa8\u0acd\u0a9c \u0ab5\u0acb\u0a95 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -100,10 +94,13 @@
     "name:mar_x_preferred":[
         "\u0911\u0930\u0947\u0902\u091c \u0935\u0949\u0932\u094d\u0915 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Orange Walk District"
     ],
     "name:nds_x_preferred":[
+        "Orange Walk"
+    ],
+    "name:nld_x_preferred":[
         "Orange Walk"
     ],
     "name:nob_x_preferred":[
@@ -153,6 +150,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Orange Walk"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a58\u5712\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BLZ",
@@ -275,7 +275,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814710,
+    "wof:lastmodified":1561844149,
     "wof:name":"Orange Walk",
     "wof:parent_id":85632571,
     "wof:placetype":"region",

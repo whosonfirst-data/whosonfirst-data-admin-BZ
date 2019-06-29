@@ -15,19 +15,13 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u672c\u514b\u5225\u970d\u5fb7\u723e\u5361\u9580"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Benque Viejo del Carmen"
     ],
     "name:eng_x_preferred":[
         "Benque Viejo del Carmen"
     ],
-    "name:fre_x_preferred":[
-        "Benque Viejo del Carmen"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Benque Viejo del Carmen"
     ],
     "name:heb_x_preferred":[
@@ -38,6 +32,9 @@
     ],
     "name:lit_x_preferred":[
         "Benke Vjecho del Karmenas"
+    ],
+    "name:nld_x_preferred":[
+        "Benque Viejo del Carmen"
     ],
     "name:nob_x_preferred":[
         "Benque Viejo del Carmen"
@@ -62,6 +59,9 @@
     ],
     "name:unk_x_variant":[
         "Bengue Viejo"
+    ],
+    "name:zho_x_preferred":[
+        "\u672c\u514b\u5225\u970d\u5fb7\u723e\u5361\u9580"
     ],
     "qs:name":"Benque Viejo del Carmen",
     "qs:photos_9r":0,
@@ -96,7 +96,7 @@
         }
     ],
     "wof:id":890429593,
-    "wof:lastmodified":1527792786,
+    "wof:lastmodified":1561844150,
     "wof:name":"Benque Viejo del Carmen",
     "wof:parent_id":85669323,
     "wof:placetype":"locality",

@@ -21,25 +21,16 @@
     "name:afr_x_preferred":[
         "Belmopan"
     ],
-    "name:alb_x_preferred":[
-        "Belmopan"
-    ],
     "name:amh_x_preferred":[
         "\u1264\u120d\u121e\u1353\u1295"
     ],
     "name:ara_x_preferred":[
         "\u0628\u0644\u0645\u0648\u0628\u0627\u0646"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0565\u056c\u0574\u0578\u057a\u0561\u0576"
-    ],
     "name:ast_x_preferred":[
         "Belmopan"
     ],
     "name:aze_x_preferred":[
-        "Belmopan"
-    ],
-    "name:baq_x_preferred":[
         "Belmopan"
     ],
     "name:bel_x_preferred":[
@@ -75,22 +66,13 @@
     "name:ces_x_preferred":[
         "Belmopan"
     ],
-    "name:chi_x_preferred":[
-        "\u8c9d\u723e\u58a8\u90a6"
-    ],
     "name:cym_x_preferred":[
-        "Belmopan"
-    ],
-    "name:cze_x_preferred":[
         "Belmopan"
     ],
     "name:dan_x_preferred":[
         "Belmopan"
     ],
     "name:deu_x_preferred":[
-        "Belmopan"
-    ],
-    "name:dut_x_preferred":[
         "Belmopan"
     ],
     "name:ell_x_preferred":[
@@ -123,19 +105,10 @@
     "name:fra_x_preferred":[
         "Belmopan"
     ],
-    "name:fre_x_preferred":[
-        "Belmopan"
-    ],
     "name:frp_x_preferred":[
         "B\u00e8lmopan"
     ],
     "name:fry_x_preferred":[
-        "Belmopan"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10d4\u10da\u10db\u10dd\u10de\u10d0\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Belmopan"
     ],
     "name:gla_x_preferred":[
@@ -146,9 +119,6 @@
     ],
     "name:glg_x_preferred":[
         "Belmop\u00e1n"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b5\u03bb\u03bc\u03bf\u03c0\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0ab2\u0aae\u0acb\u0aaa\u0abe\u0aa8"
@@ -179,9 +149,6 @@
     ],
     "name:hye_x_preferred":[
         "\u0532\u0565\u056c\u0574\u0578\u057a\u0561\u0576"
-    ],
-    "name:ice_x_preferred":[
-        "Belm\u00f3pan"
     ],
     "name:ido_x_preferred":[
         "Belmopan"
@@ -234,19 +201,16 @@
     "name:lmo_x_preferred":[
         "Belmopan"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0435\u043b\u043c\u043e\u043f\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u092c\u0947\u0932\u094d\u092e\u094b\u092a\u093e\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Belmopan"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0435\u043b\u043c\u043e\u043f\u0430\u043d"
     ],
     "name:mlg_x_preferred":[
+        "Belmopan"
+    ],
+    "name:msa_x_preferred":[
         "Belmopan"
     ],
     "name:nah_x_preferred":[
@@ -282,9 +246,6 @@
     "name:pap_x_preferred":[
         "Belmopan"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0644\u0645\u0648\u067e\u0627\u0646"
-    ],
     "name:pms_x_preferred":[
         "Belmopan"
     ],
@@ -306,9 +267,6 @@
     "name:ron_x_preferred":[
         "Belmopan"
     ],
-    "name:rum_x_preferred":[
-        "Belmopan"
-    ],
     "name:rup_x_preferred":[
         "Belmopan"
     ],
@@ -325,9 +283,6 @@
         "\u0db6\u0dd9\u0dbd\u0dca\u0db8\u0ddc\u0db4\u0db1\u0dca"
     ],
     "name:slk_x_preferred":[
-        "Belmopan"
-    ],
-    "name:slo_x_preferred":[
         "Belmopan"
     ],
     "name:slv_x_preferred":[
@@ -369,9 +324,6 @@
     "name:tha_x_preferred":[
         "\u0e40\u0e1a\u0e25\u0e42\u0e21\u0e41\u0e1e\u0e19"
     ],
-    "name:tib_x_preferred":[
-        "\u0f54\u0f7a\u0f62\u0f0b\u0f58\u0f7c\u0f0b\u0f55\u0f53\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Belmopan"
     ],
@@ -397,9 +349,6 @@
         "Belmopan"
     ],
     "name:war_x_preferred":[
-        "Belmopan"
-    ],
-    "name:wel_x_preferred":[
         "Belmopan"
     ],
     "name:xmf_x_preferred":[
@@ -468,7 +417,7 @@
         }
     ],
     "wof:id":421186551,
-    "wof:lastmodified":1534379244,
+    "wof:lastmodified":1561844150,
     "wof:name":"Belmopan",
     "wof:parent_id":85669323,
     "wof:placetype":"locality",
