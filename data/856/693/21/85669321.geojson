@@ -34,14 +34,11 @@
     "name:cat_x_preferred":[
         "Districte de Belize"
     ],
-    "name:chi_x_preferred":[
-        "\u4f2f\u5229\u5179\u533a"
-    ],
     "name:dan_x_preferred":[
         "Belize"
     ],
-    "name:dut_x_preferred":[
-        "Belize"
+    "name:deu_x_preferred":[
+        "Belize District"
     ],
     "name:eng_x_preferred":[
         "Belize"
@@ -52,11 +49,8 @@
     "name:fra_x_preferred":[
         "Belize"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "District de Belize"
-    ],
-    "name:ger_x_preferred":[
-        "Belize District"
     ],
     "name:glg_x_preferred":[
         "Distrito de Belice"
@@ -80,6 +74,9 @@
         "Belizo rajonas"
     ],
     "name:nds_x_preferred":[
+        "Belize"
+    ],
+    "name:nld_x_preferred":[
         "Belize"
     ],
     "name:nob_x_preferred":[
@@ -108,6 +105,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0644\u06cc\u0632 \u0636\u0644\u0639"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f2f\u5229\u5179\u533a"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BLZ",
@@ -230,7 +230,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550329,
+    "wof:lastmodified":1561844148,
     "wof:name":"Belize",
     "wof:parent_id":85632571,
     "wof:placetype":"region",

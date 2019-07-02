@@ -26,25 +26,13 @@
     "name:ceb_x_preferred":[
         "Punta Gorda"
     ],
-    "name:chi_x_preferred":[
-        "\u84ec\u5854\u6208\u723e\u9054"
-    ],
     "name:deu_x_preferred":[
-        "Punta Gorda"
-    ],
-    "name:dut_x_preferred":[
         "Punta Gorda"
     ],
     "name:eng_x_preferred":[
         "Punta Gorda"
     ],
     "name:fra_x_preferred":[
-        "Punta Gorda"
-    ],
-    "name:fre_x_preferred":[
-        "Punta Gorda"
-    ],
-    "name:ger_x_preferred":[
         "Punta Gorda"
     ],
     "name:heb_x_preferred":[
@@ -57,6 +45,9 @@
         "\u30d7\u30f3\u30bf\u30b4\u30eb\u30bf"
     ],
     "name:lit_x_preferred":[
+        "Punta Gorda"
+    ],
+    "name:nld_x_preferred":[
         "Punta Gorda"
     ],
     "name:nob_x_preferred":[
@@ -236,7 +227,7 @@
         }
     ],
     "wof:id":421201237,
-    "wof:lastmodified":1527716441,
+    "wof:lastmodified":1561844150,
     "wof:name":"Punta Gorda",
     "wof:parent_id":85669343,
     "wof:placetype":"locality",

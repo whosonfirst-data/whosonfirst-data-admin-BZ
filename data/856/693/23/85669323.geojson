@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.445465,
-    "geom:area_square_m":5267509476.679588,
+    "geom:area_square_m":5267509476.679489,
     "geom:bbox":"-89.1931396717,16.392625603,-88.5482846746,17.4899404968",
     "geom:latitude":17.000009,
     "geom:longitude":-88.897456,
@@ -37,14 +37,14 @@
     "name:cat_x_preferred":[
         "Districte de Cayo"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u7d04\u5340"
-    ],
     "name:dan_x_preferred":[
         "Cayo"
     ],
-    "name:dut_x_preferred":[
-        "Cayo"
+    "name:deu_x_preferred":[
+        "Cayo District"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03b3\u03b9\u03bf"
     ],
     "name:eng_x_preferred":[
         "Cayo"
@@ -58,14 +58,8 @@
     "name:fra_x_preferred":[
         "Cayo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "District de Cayo"
-    ],
-    "name:ger_x_preferred":[
-        "Cayo District"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03b3\u03b9\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aaf\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -103,10 +97,13 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u0913 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Cayo District"
     ],
     "name:nds_x_preferred":[
+        "Cayo"
+    ],
+    "name:nld_x_preferred":[
         "Cayo"
     ],
     "name:nob_x_preferred":[
@@ -156,6 +153,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Cayo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u7d04\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"BLZ",
@@ -278,7 +278,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814710,
+    "wof:lastmodified":1561844149,
     "wof:name":"Cayo",
     "wof:parent_id":85632571,
     "wof:placetype":"region",
