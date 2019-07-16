@@ -21,6 +21,9 @@
     "name:bre_x_preferred":[
         "San Pedro Town"
     ],
+    "name:ceb_x_preferred":[
+        "San Pedro"
+    ],
     "name:deu_x_preferred":[
         "San Pedro"
     ],
@@ -103,7 +106,7 @@
         }
     ],
     "wof:id":890434951,
-    "wof:lastmodified":1561844151,
+    "wof:lastmodified":1563280875,
     "wof:name":"San Pedro",
     "wof:parent_id":85669321,
     "wof:placetype":"locality",

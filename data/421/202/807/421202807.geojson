@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Corozal"
     ],
+    "name:eng_x_variant":[
+        "Corozal Town"
+    ],
     "name:fra_x_preferred":[
         "Corozal Town"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u0930\u094b\u091d\u093e\u0932 \u091f\u093e\u0909\u0928"
+    ],
+    "name:nds_x_preferred":[
+        "Corozal"
     ],
     "name:nld_x_preferred":[
         "Corozal Town"
@@ -61,6 +67,9 @@
     ],
     "name:spa_x_preferred":[
         "Corozal"
+    ],
+    "name:swe_x_preferred":[
+        "Corozal Town"
     ],
     "name:unk_x_variant":[
         "Corasal"
@@ -208,7 +217,7 @@
         }
     ],
     "wof:id":421202807,
-    "wof:lastmodified":1561844150,
+    "wof:lastmodified":1563280864,
     "wof:name":"Corozal",
     "wof:parent_id":85669327,
     "wof:placetype":"locality",

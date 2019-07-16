@@ -25,6 +25,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.0,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0644\u064a\u0632"
+    ],
     "name:bel_x_preferred":[
         "\u0430\u043a\u0440\u0443\u0433\u0430 \u0411\u0435\u043b\u0456\u0437"
     ],
@@ -33,6 +36,9 @@
     ],
     "name:cat_x_preferred":[
         "Districte de Belize"
+    ],
+    "name:ceb_x_preferred":[
+        "Belize District"
     ],
     "name:dan_x_preferred":[
         "Belize"
@@ -43,6 +49,12 @@
     "name:eng_x_preferred":[
         "Belize"
     ],
+    "name:eng_x_variant":[
+        "Belize District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0644\u06cc\u0632"
+    ],
     "name:fin_x_preferred":[
         "Belize"
     ],
@@ -52,11 +64,17 @@
     "name:fra_x_variant":[
         "District de Belize"
     ],
+    "name:frr_x_preferred":[
+        "Belize"
+    ],
     "name:glg_x_preferred":[
         "Distrito de Belice"
     ],
     "name:hrv_x_preferred":[
         "Belize"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Belize"
     ],
     "name:ita_x_preferred":[
         "distretto di Belize"
@@ -67,11 +85,20 @@
     "name:kor_x_preferred":[
         "\ubca8\ub9ac\uc988 \uad6c"
     ],
+    "name:lad_x_preferred":[
+        "Belize"
+    ],
     "name:lav_x_preferred":[
         "Belizas distrikts"
     ],
     "name:lit_x_preferred":[
         "Belizo rajonas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0947\u0932\u0940\u091d \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:nan_x_preferred":[
+        "Belize Khu"
     ],
     "name:nds_x_preferred":[
         "Belize"
@@ -99,6 +126,9 @@
     ],
     "name:swe_x_preferred":[
         "Belize"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0435\u043b\u0456\u0437"
     ],
     "name:unk_x_variant":[
         "Belice Distrito"
@@ -230,7 +260,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561844148,
+    "wof:lastmodified":1563280798,
     "wof:name":"Belize",
     "wof:parent_id":85632571,
     "wof:placetype":"region",

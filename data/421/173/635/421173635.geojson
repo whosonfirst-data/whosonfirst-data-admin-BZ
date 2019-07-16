@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "Bermudian Landing"
     ],
+    "name:nds_x_preferred":[
+        "Bermudian Landing"
+    ],
     "name:nld_x_preferred":[
         "Bermudian Landing"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421173635,
-    "wof:lastmodified":1561844150,
+    "wof:lastmodified":1563280865,
     "wof:name":"Bermudian Landing",
     "wof:parent_id":85669321,
     "wof:placetype":"locality",
