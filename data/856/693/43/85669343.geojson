@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Districte de Toledo"
     ],
+    "name:ceb_x_preferred":[
+        "Toledo District"
+    ],
     "name:dan_x_preferred":[
         "Toledo"
     ],
@@ -49,6 +52,12 @@
     "name:eng_x_preferred":[
         "Toledo"
     ],
+    "name:eng_x_variant":[
+        "Toledo District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u062a\u0648\u0644\u06cc\u062f\u0648"
+    ],
     "name:fin_x_preferred":[
         "Toledonin kaupunginosa"
     ],
@@ -57,6 +66,9 @@
     ],
     "name:fra_x_variant":[
         "District de Toledo"
+    ],
+    "name:frr_x_preferred":[
+        "Toledo"
     ],
     "name:glg_x_preferred":[
         "Distrito de Toledo"
@@ -85,6 +97,9 @@
     "name:kor_x_preferred":[
         "\ud138\ub9ac\ub3c4 \uad6c"
     ],
+    "name:lad_x_preferred":[
+        "Toledo"
+    ],
     "name:lav_x_preferred":[
         "Toledo distrikts"
     ],
@@ -96,6 +111,9 @@
     ],
     "name:msa_x_preferred":[
         "Toledo District"
+    ],
+    "name:nan_x_preferred":[
+        "Toledo Khu"
     ],
     "name:nds_x_preferred":[
         "Toledo"
@@ -277,7 +295,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561844149,
+    "wof:lastmodified":1563280798,
     "wof:name":"Toledo",
     "wof:parent_id":85632571,
     "wof:placetype":"region",

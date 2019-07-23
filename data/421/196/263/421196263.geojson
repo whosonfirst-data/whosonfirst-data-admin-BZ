@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.55,17.3,-88.55,17.3",
     "geom:latitude":17.3,
     "geom:longitude":-88.55,
@@ -18,8 +19,29 @@
     "name:ara_x_preferred":[
         "\u0645\u062f\u0641\u0646"
     ],
+    "name:dan_x_preferred":[
+        "kirkeg\u00e5rd"
+    ],
+    "name:deu_x_preferred":[
+        "Kirchhof"
+    ],
+    "name:eng_x_preferred":[
+        "churchyard"
+    ],
+    "name:epo_x_preferred":[
+        "kirkokorto"
+    ],
     "name:est_x_preferred":[
         "Kirikaed"
+    ],
+    "name:est_x_variant":[
+        "kirikaed"
+    ],
+    "name:fin_x_preferred":[
+        "kirkkomaa"
+    ],
+    "name:fra_x_preferred":[
+        "a\u00eetre"
     ],
     "name:fry_x_preferred":[
         "Tsjerkh\u00f4f"
@@ -27,17 +49,35 @@
     "name:glg_x_preferred":[
         "Adro"
     ],
+    "name:jpn_x_preferred":[
+        "\u6559\u4f1a\u4ed8\u5c5e\u5893\u5730"
+    ],
     "name:lit_x_preferred":[
         "\u0160ventorius"
     ],
     "name:nld_x_preferred":[
         "Kerkhof"
     ],
+    "name:nld_x_variant":[
+        "kerkhof"
+    ],
     "name:nno_x_preferred":[
         "Kyrkjegard"
     ],
+    "name:nob_x_preferred":[
+        "kirkeg\u00e5rd"
+    ],
     "name:por_x_preferred":[
         "Adro"
+    ],
+    "name:por_x_variant":[
+        "adro"
+    ],
+    "name:spa_x_preferred":[
+        "Adro"
+    ],
+    "name:zho_x_preferred":[
+        "\u6559\u5802\u5893\u5730"
     ],
     "qs:gn_country":"BZ",
     "qs:gn_fcode":"PPL",
@@ -83,7 +123,7 @@
         }
     ],
     "wof:id":421196263,
-    "wof:lastmodified":1527716368,
+    "wof:lastmodified":1563280867,
     "wof:name":"Churchyard",
     "wof:parent_id":85669321,
     "wof:placetype":"locality",

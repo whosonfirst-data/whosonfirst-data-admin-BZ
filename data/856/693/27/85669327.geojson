@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Districte de Corozal"
     ],
+    "name:ceb_x_preferred":[
+        "Corozal District"
+    ],
     "name:dan_x_preferred":[
         "Corozal"
     ],
@@ -49,8 +52,14 @@
     "name:eng_x_preferred":[
         "Corozal"
     ],
+    "name:eng_x_variant":[
+        "Corozal District"
+    ],
     "name:epo_x_preferred":[
         "Corozal"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0648\u0631\u0648\u0632\u0627\u0644"
     ],
     "name:fin_x_preferred":[
         "Corozalin kaupunginosa"
@@ -60,6 +69,9 @@
     ],
     "name:fra_x_variant":[
         "District de Corozal"
+    ],
+    "name:frr_x_preferred":[
+        "Corozal"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab0\u0acb\u0a9c\u0ab2 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -85,6 +97,9 @@
     "name:kor_x_preferred":[
         "\ucf54\ub85c\uc0b4 \uad6c"
     ],
+    "name:lad_x_preferred":[
+        "Corozal"
+    ],
     "name:lav_x_preferred":[
         "Korosalas distrikts"
     ],
@@ -96,6 +111,9 @@
     ],
     "name:msa_x_preferred":[
         "Corozal District"
+    ],
+    "name:nan_x_preferred":[
+        "Corozal Khu"
     ],
     "name:nds_x_preferred":[
         "Corozal"
@@ -275,7 +293,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561844148,
+    "wof:lastmodified":1563280797,
     "wof:name":"Corozal",
     "wof:parent_id":85632571,
     "wof:placetype":"region",

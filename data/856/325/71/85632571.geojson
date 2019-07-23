@@ -100,6 +100,9 @@
     "name:bgn_x_preferred":[
         "\u0628\u0644\u06cc\u0632"
     ],
+    "name:bho_x_preferred":[
+        "\u092c\u0947\u0932\u0940\u091c"
+    ],
     "name:bod_x_preferred":[
         "\u0f56\u0f7a\u0f0b\u0f63\u0f72\u0f0b\u0f5b\u0f72\u0f0d"
     ],
@@ -245,6 +248,9 @@
     ],
     "name:gla_x_preferred":[
         "Beilise"
+    ],
+    "name:gla_x_variant":[
+        "A' Beil\u00ecs"
     ],
     "name:gle_x_preferred":[
         "An Bheil\u00eds"
@@ -406,6 +412,9 @@
     "name:lav_x_preferred":[
         "Beliza"
     ],
+    "name:lfn_x_preferred":[
+        "Beliz"
+    ],
     "name:lij_x_preferred":[
         "Belize"
     ],
@@ -480,6 +489,9 @@
     ],
     "name:mya_x_variant":[
         "\u1018\u1031\u101c\u102e\u1007\u103a"
+    ],
+    "name:myv_x_preferred":[
+        "\u0411\u0435\u043b\u0438\u0437"
     ],
     "name:mzn_x_preferred":[
         "\u0628\u0644\u06cc\u0632"
@@ -657,6 +669,9 @@
     "name:ssw_x_preferred":[
         "IBhelizi"
     ],
+    "name:stq_x_preferred":[
+        "Belize"
+    ],
     "name:sun_x_preferred":[
         "B\u00e9lis"
     ],
@@ -774,6 +789,9 @@
     ],
     "name:yid_x_preferred":[
         "\u05d1\u05e2\u05dc\u05d9\u05d6"
+    ],
+    "name:yid_x_variant":[
+        "\u05d1\u05e2\u05dc\u05d9\u05d6\u05e2"
     ],
     "name:yor_x_preferred":[
         "B\u1eb9\u0300l\u00eds\u00e8"
@@ -951,7 +969,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561844149,
+    "wof:lastmodified":1563280804,
     "wof:name":"Belize",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

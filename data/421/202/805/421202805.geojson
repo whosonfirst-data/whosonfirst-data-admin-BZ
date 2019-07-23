@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "Santana"
     ],
+    "name:nds_x_preferred":[
+        "Santana"
+    ],
     "name:nld_x_preferred":[
         "Santana"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421202805,
-    "wof:lastmodified":1561844150,
+    "wof:lastmodified":1563280863,
     "wof:name":"Santana",
     "wof:parent_id":85669321,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:cat_x_preferred":[
         "Dangriga"
     ],
+    "name:ceb_x_preferred":[
+        "Dangriga"
+    ],
     "name:deu_x_preferred":[
         "Dangriga"
     ],
@@ -230,7 +233,7 @@
         }
     ],
     "wof:id":890451721,
-    "wof:lastmodified":1561844151,
+    "wof:lastmodified":1563280874,
     "wof:name":"Dangriga",
     "wof:parent_id":85669337,
     "wof:placetype":"locality",

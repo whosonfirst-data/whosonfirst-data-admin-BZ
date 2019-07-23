@@ -16,6 +16,9 @@
     "name:eng_x_preferred":[
         "Rockstone Pond"
     ],
+    "name:nds_x_preferred":[
+        "Rock Stone Pond"
+    ],
     "name:nld_x_preferred":[
         "Rockstone Pond"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421195373,
-    "wof:lastmodified":1561844150,
+    "wof:lastmodified":1563280863,
     "wof:name":"Rockstone Pond",
     "wof:parent_id":85669321,
     "wof:placetype":"locality",

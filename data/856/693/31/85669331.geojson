@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0627\u0648\u0631\u0627\u0646\u062c \u0648\u0648\u0643"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0648\u0631\u0627\u0646\u062c \u0648\u0648\u0643"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09b0\u09c7\u099e\u09cd\u099c \u0993\u09af\u09bc\u09be\u0995 \u099c\u09c7\u09b2\u09be"
     ],
@@ -36,6 +39,12 @@
     ],
     "name:cat_x_preferred":[
         "Districte d'Orange Walk"
+    ],
+    "name:cat_x_variant":[
+        "districte d'Orange Walk"
+    ],
+    "name:ceb_x_preferred":[
+        "Orange Walk District"
     ],
     "name:dan_x_preferred":[
         "Orange Walk"
@@ -49,8 +58,14 @@
     "name:eng_x_preferred":[
         "Orange Walk"
     ],
+    "name:eng_x_variant":[
+        "Orange Walk District"
+    ],
     "name:epo_x_preferred":[
         "Orange Walk"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0622\u0631\u0646\u062c \u0648\u0627\u06a9"
     ],
     "name:fin_x_preferred":[
         "Orange Walkin kaupunginosa"
@@ -60,6 +75,9 @@
     ],
     "name:fra_x_variant":[
         "District d'Orange Walk"
+    ],
+    "name:frr_x_preferred":[
+        "Orange Walk"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0ab0\u0ac7\u0aa8\u0acd\u0a9c \u0ab5\u0acb\u0a95 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -85,6 +103,9 @@
     "name:kor_x_preferred":[
         "\uc624\ub80c\uc9c0\uc6cc\ud06c \uad6c"
     ],
+    "name:lad_x_preferred":[
+        "Orange Walk"
+    ],
     "name:lav_x_preferred":[
         "Orind\u017evokas distrikts"
     ],
@@ -96,6 +117,9 @@
     ],
     "name:msa_x_preferred":[
         "Orange Walk District"
+    ],
+    "name:nan_x_preferred":[
+        "Orange Walk Khu"
     ],
     "name:nds_x_preferred":[
         "Orange Walk"
@@ -275,7 +299,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561844149,
+    "wof:lastmodified":1563280799,
     "wof:name":"Orange Walk",
     "wof:parent_id":85632571,
     "wof:placetype":"region",

@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Districte de Cayo"
     ],
+    "name:ceb_x_preferred":[
+        "Cayo District"
+    ],
     "name:dan_x_preferred":[
         "Cayo"
     ],
@@ -49,6 +52,9 @@
     "name:eng_x_preferred":[
         "Cayo"
     ],
+    "name:eng_x_variant":[
+        "Cayo District"
+    ],
     "name:epo_x_preferred":[
         "Cayo"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:fra_x_variant":[
         "District de Cayo"
+    ],
+    "name:frr_x_preferred":[
+        "Cayo"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aaf\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -88,6 +97,9 @@
     "name:kor_x_preferred":[
         "\uce74\uc694 \uad6c"
     ],
+    "name:lad_x_preferred":[
+        "Cayo"
+    ],
     "name:lav_x_preferred":[
         "Kajo distrikts"
     ],
@@ -99,6 +111,9 @@
     ],
     "name:msa_x_preferred":[
         "Cayo District"
+    ],
+    "name:nan_x_preferred":[
+        "Cayo Khu"
     ],
     "name:nds_x_preferred":[
         "Cayo"
@@ -278,7 +293,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561844149,
+    "wof:lastmodified":1563280800,
     "wof:name":"Cayo",
     "wof:parent_id":85632571,
     "wof:placetype":"region",
