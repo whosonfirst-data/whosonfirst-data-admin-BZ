@@ -25,6 +25,9 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pol_x_preferred":[
+        "Baking Pot"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +49,7 @@
         }
     ],
     "wof:id":1226045465,
-    "wof:lastmodified":1536725932,
+    "wof:lastmodified":1564169934,
     "wof:name":"Baking Pot",
     "wof:parent_id":85669323,
     "wof:placetype":"locality",

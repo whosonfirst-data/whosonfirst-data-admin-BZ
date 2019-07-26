@@ -25,6 +25,18 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bullet Tree Falls"
+    ],
+    "name:nds_x_preferred":[
+        "Bullet Tree Falls"
+    ],
+    "name:spa_x_preferred":[
+        "Bullet Tree Falls"
+    ],
+    "name:swe_x_preferred":[
+        "Bullet Tree Falls"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1209824215,
-    "wof:lastmodified":1537488929,
+    "wof:lastmodified":1564169885,
     "wof:name":"Bullet Tree Falls",
     "wof:parent_id":85669323,
     "wof:placetype":"locality",

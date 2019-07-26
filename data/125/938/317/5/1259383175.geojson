@@ -25,6 +25,12 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30a8\u30eb\u30fb\u30d6\u30e9\u30bd"
+    ],
+    "name:spa_x_preferred":[
+        "El Brazo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1259383175,
-    "wof:lastmodified":1537001952,
+    "wof:lastmodified":1564169925,
     "wof:name":"El Brazo",
     "wof:parent_id":85669331,
     "wof:placetype":"locality",

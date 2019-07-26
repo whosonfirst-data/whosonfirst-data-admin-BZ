@@ -25,7 +25,19 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Salt Creek"
+    ],
+    "name:fra_x_preferred":[
+        "Salt Creek"
+    ],
+    "name:pol_x_preferred":[
+        "Salt Creek"
+    ],
     "name:spa_x_preferred":[
+        "Salt Creek"
+    ],
+    "name:swe_x_preferred":[
         "Salt Creek"
     ],
     "src:geom":"geonames",
@@ -49,7 +61,7 @@
         }
     ],
     "wof:id":1193150893,
-    "wof:lastmodified":1537590263,
+    "wof:lastmodified":1564169894,
     "wof:name":"Salt Creek",
     "wof:parent_id":85669321,
     "wof:placetype":"locality",

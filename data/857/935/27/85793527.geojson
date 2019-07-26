@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":34334349.848151,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.187419,17.498224,-88.187419,17.498224",
     "geom:latitude":17.498224,
     "geom:longitude":-88.187419,
@@ -28,11 +28,29 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:ceb_x_preferred":[
+        "Fort George"
+    ],
+    "name:deu_x_preferred":[
+        "Fort George"
+    ],
     "name:eng_x_preferred":[
         "Fort George"
     ],
     "name:eng_x_variant":[
         "Ft George"
+    ],
+    "name:ita_x_preferred":[
+        "Fort George"
+    ],
+    "name:nds_x_preferred":[
+        "Fort George"
+    ],
+    "name:pol_x_preferred":[
+        "Fort George"
+    ],
+    "name:swe_x_preferred":[
+        "Fort George"
     ],
     "name:unk_x_variant":[
         "Fort George"
@@ -112,7 +130,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379244,
+    "wof:lastmodified":1564169844,
     "wof:name":"Fort George",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

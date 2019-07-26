@@ -25,6 +25,15 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hellgate"
+    ],
+    "name:fra_x_preferred":[
+        "Hellgate"
+    ],
+    "name:ron_x_preferred":[
+        "Hellgate"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632571
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209507727,
-    "wof:lastmodified":1536284980,
+    "wof:lastmodified":1564169886,
     "wof:name":"Hellgate",
     "wof:parent_id":85632571,
     "wof:placetype":"locality",

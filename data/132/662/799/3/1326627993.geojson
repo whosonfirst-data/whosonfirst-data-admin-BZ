@@ -26,6 +26,21 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Machaca"
+    ],
+    "name:ita_x_preferred":[
+        "Machaca"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30c1\u30e3\u30ab"
+    ],
+    "name:pol_x_preferred":[
+        "Machaca"
+    ],
+    "name:spa_x_preferred":[
+        "Machaca"
+    ],
     "name:und_x_variant":[
         "Machage",
         "Machaca"
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1326627993,
-    "wof:lastmodified":1537590259,
+    "wof:lastmodified":1564169830,
     "wof:name":"Machaca",
     "wof:parent_id":85669343,
     "wof:placetype":"locality",

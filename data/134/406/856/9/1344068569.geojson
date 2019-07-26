@@ -25,6 +25,48 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ambergris Caye"
+    ],
+    "name:ceb_x_preferred":[
+        "Ambergris Cay"
+    ],
+    "name:deu_x_preferred":[
+        "Ambergris Caye"
+    ],
+    "name:fin_x_preferred":[
+        "Ambergris Caye"
+    ],
+    "name:fra_x_preferred":[
+        "Caye Ambergris"
+    ],
+    "name:hrv_x_preferred":[
+        "Ambergris Caye"
+    ],
+    "name:ita_x_preferred":[
+        "Ambergris Caye"
+    ],
+    "name:lit_x_preferred":[
+        "Ambergriso Sala"
+    ],
+    "name:nor_x_preferred":[
+        "Ambergris Caye"
+    ],
+    "name:pol_x_preferred":[
+        "Ambergris Caye"
+    ],
+    "name:por_x_preferred":[
+        "Cayo Ambergris"
+    ],
+    "name:spa_x_preferred":[
+        "Cayo Ambergris"
+    ],
+    "name:swe_x_preferred":[
+        "Ambergris Caye"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u4f2f\u683c\u91cc\u65af\u5cf6"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +88,7 @@
         }
     ],
     "wof:id":1344068569,
-    "wof:lastmodified":1536862433,
+    "wof:lastmodified":1564169836,
     "wof:name":"Ambergris Caye",
     "wof:parent_id":85669321,
     "wof:placetype":"locality",
