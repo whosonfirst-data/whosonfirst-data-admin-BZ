@@ -25,6 +25,21 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Monkey River Town"
+    ],
+    "name:nds_x_preferred":[
+        "Monkey River Town"
+    ],
+    "name:pol_x_preferred":[
+        "Monkey River Town"
+    ],
+    "name:spa_x_preferred":[
+        "Monkey River Town"
+    ],
+    "name:swe_x_preferred":[
+        "Monkey River Town"
+    ],
     "name:und_x_variant":[
         "Monkey River",
         "Monkey",
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1276331797,
-    "wof:lastmodified":1537590258,
+    "wof:lastmodified":1564169865,
     "wof:name":"Monkey River Town",
     "wof:parent_id":85669343,
     "wof:placetype":"locality",

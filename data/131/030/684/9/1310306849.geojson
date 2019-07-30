@@ -25,6 +25,9 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nds_x_preferred":[
+        "San Narciso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1310306849,
-    "wof:lastmodified":1537488925,
+    "wof:lastmodified":1564169900,
     "wof:name":"San Narciso",
     "wof:parent_id":85669327,
     "wof:placetype":"locality",

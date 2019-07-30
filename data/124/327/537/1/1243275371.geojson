@@ -25,6 +25,27 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Progresso"
+    ],
+    "name:deu_x_preferred":[
+        "Progresso"
+    ],
+    "name:nds_x_preferred":[
+        "Progresso"
+    ],
+    "name:pol_x_preferred":[
+        "Progresso"
+    ],
+    "name:por_x_preferred":[
+        "Progresso"
+    ],
+    "name:spa_x_preferred":[
+        "Progreso"
+    ],
+    "name:swe_x_preferred":[
+        "Progresso"
+    ],
     "name:und_x_variant":[
         "Progreso",
         "Progresso"
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1243275371,
-    "wof:lastmodified":1537590257,
+    "wof:lastmodified":1564169923,
     "wof:name":"Progresso",
     "wof:parent_id":85669327,
     "wof:placetype":"locality",

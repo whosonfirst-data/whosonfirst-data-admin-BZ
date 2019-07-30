@@ -25,6 +25,9 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nds_x_preferred":[
+        "Willows Bank"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1327449079,
-    "wof:lastmodified":1537488924,
+    "wof:lastmodified":1564169831,
     "wof:name":"Willows Bank",
     "wof:parent_id":85669321,
     "wof:placetype":"locality",

@@ -25,6 +25,24 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Guinea Grass"
+    ],
+    "name:nds_x_preferred":[
+        "Guinea Grass"
+    ],
+    "name:pol_x_preferred":[
+        "Guinea Grass"
+    ],
+    "name:por_x_preferred":[
+        "Guinea Grass"
+    ],
+    "name:spa_x_preferred":[
+        "Guinea Grass"
+    ],
+    "name:zho_x_preferred":[
+        "\u5409\u5185\u4e9a\u683c\u62c9\u65af"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +65,7 @@
         }
     ],
     "wof:id":1277074631,
-    "wof:lastmodified":1537488927,
+    "wof:lastmodified":1564169861,
     "wof:name":"Guinea Grass",
     "wof:parent_id":85669331,
     "wof:placetype":"locality",

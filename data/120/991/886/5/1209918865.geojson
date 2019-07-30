@@ -25,8 +25,29 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mango Creek"
+    ],
+    "name:deu_x_preferred":[
+        "Independence and Mango Creek"
+    ],
     "name:eng_x_preferred":[
         "Independence"
+    ],
+    "name:fra_x_preferred":[
+        "Mango Creek"
+    ],
+    "name:pol_x_preferred":[
+        "Mango Creek"
+    ],
+    "name:por_x_preferred":[
+        "Mango Creek"
+    ],
+    "name:spa_x_preferred":[
+        "Mango Creek"
+    ],
+    "name:swe_x_preferred":[
+        "Mango Creek"
     ],
     "name:und_x_variant":[
         "Independence"
@@ -53,7 +74,7 @@
         }
     ],
     "wof:id":1209918865,
-    "wof:lastmodified":1537590259,
+    "wof:lastmodified":1564169879,
     "wof:name":"Independence and Mango Creek",
     "wof:parent_id":85669337,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nds_x_preferred":[
+        "San Jose Succotz"
+    ],
     "name:und_x_variant":[
         "San Jose Succotz",
         "Socotz",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1326743107,
-    "wof:lastmodified":1537590256,
+    "wof:lastmodified":1564169819,
     "wof:name":"San Jose Soccoths",
     "wof:parent_id":85669323,
     "wof:placetype":"locality",

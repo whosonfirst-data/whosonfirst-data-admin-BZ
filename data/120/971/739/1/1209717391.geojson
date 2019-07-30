@@ -25,7 +25,25 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sarteneja"
+    ],
+    "name:deu_x_preferred":[
+        "Sarteneja"
+    ],
     "name:eng_x_preferred":[
+        "Sarteneja"
+    ],
+    "name:nds_x_preferred":[
+        "Sarteneja"
+    ],
+    "name:pol_x_preferred":[
+        "Sarteneja"
+    ],
+    "name:por_x_preferred":[
+        "Sarteneja"
+    ],
+    "name:spa_x_preferred":[
         "Sarteneja"
     ],
     "name:und_x_variant":[
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1209717391,
-    "wof:lastmodified":1537590256,
+    "wof:lastmodified":1564169881,
     "wof:name":"Sarteneja",
     "wof:parent_id":85669327,
     "wof:placetype":"locality",

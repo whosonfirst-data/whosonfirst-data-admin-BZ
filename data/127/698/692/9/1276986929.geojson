@@ -25,6 +25,9 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nds_x_preferred":[
+        "Corozalito"
+    ],
     "name:und_x_variant":[
         "Gorosalito",
         "Corosalito",
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276986929,
-    "wof:lastmodified":1537590261,
+    "wof:lastmodified":1564169877,
     "wof:name":"Corozalito",
     "wof:parent_id":85669331,
     "wof:placetype":"locality",

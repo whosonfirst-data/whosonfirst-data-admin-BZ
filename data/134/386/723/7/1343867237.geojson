@@ -25,6 +25,15 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Trapig"
+    ],
+    "name:fra_x_preferred":[
+        "Trapiche"
+    ],
+    "name:por_x_preferred":[
+        "Trapiche"
+    ],
     "name:spa_x_preferred":[
         "Trapiche"
     ],
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1343867237,
-    "wof:lastmodified":1537590255,
+    "wof:lastmodified":1564169843,
     "wof:name":"Trapiche",
     "wof:parent_id":85669323,
     "wof:placetype":"locality",

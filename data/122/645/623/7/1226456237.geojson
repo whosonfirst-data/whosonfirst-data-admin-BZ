@@ -25,6 +25,9 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nds_x_preferred":[
+        "Rancho Dolores"
+    ],
     "name:und_x_variant":[
         "Dolores",
         "Rancho Dolores"
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1226456237,
-    "wof:lastmodified":1537590257,
+    "wof:lastmodified":1564169933,
     "wof:name":"Rancho Dolores",
     "wof:parent_id":85669321,
     "wof:placetype":"locality",

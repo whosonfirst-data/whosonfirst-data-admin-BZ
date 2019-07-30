@@ -26,6 +26,9 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nds_x_preferred":[
+        "Burrell Boom"
+    ],
     "name:und_x_variant":[
         "Boom",
         "Burrell's Town",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1243081653,
-    "wof:lastmodified":1537590262,
+    "wof:lastmodified":1564169910,
     "wof:name":"Burrell Boom",
     "wof:parent_id":85669321,
     "wof:placetype":"locality",

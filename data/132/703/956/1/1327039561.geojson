@@ -25,6 +25,9 @@
     "iso:country":"BZ",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nds_x_preferred":[
+        "Biscayne"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1327039561,
-    "wof:lastmodified":1537488930,
+    "wof:lastmodified":1564169828,
     "wof:name":"Biscayne",
     "wof:parent_id":85669321,
     "wof:placetype":"locality",
