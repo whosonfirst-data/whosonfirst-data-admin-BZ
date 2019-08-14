@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OW"
+    ],
     "lbl:latitude":17.650876,
     "lbl:longitude":-88.879241,
     "mps:latitude":17.650876,
@@ -290,16 +293,13 @@
         }
     ],
     "wof:id":85669331,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563280799,
+    "wof:lastmodified":1565661766,
     "wof:name":"Orange Walk",
     "wof:parent_id":85632571,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TO"
+    ],
     "lbl:latitude":16.273881,
     "lbl:longitude":-88.958438,
     "mps:latitude":16.273881,
@@ -286,16 +289,13 @@
         }
     ],
     "wof:id":85669343,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563280798,
+    "wof:lastmodified":1565661766,
     "wof:name":"Toledo",
     "wof:parent_id":85632571,
     "wof:placetype":"region",

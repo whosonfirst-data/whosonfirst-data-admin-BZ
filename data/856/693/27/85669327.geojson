@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CZ"
+    ],
     "lbl:latitude":18.165295,
     "lbl:longitude":-88.262536,
     "mps:latitude":18.165295,
@@ -284,16 +287,13 @@
         }
     ],
     "wof:id":85669327,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563280797,
+    "wof:lastmodified":1565661765,
     "wof:name":"Corozal",
     "wof:parent_id":85632571,
     "wof:placetype":"region",
