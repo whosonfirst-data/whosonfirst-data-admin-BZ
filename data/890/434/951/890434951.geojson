@@ -11,10 +11,14 @@
     "geom:longitude":-87.9659,
     "gn:country":"BZ",
     "gn:fcode":"PPL",
-    "gn:pop":8418,
+    "gn:population":8418,
     "iso:country":"BZ",
+    "lbl:bbox":"-87.9859,17.89598,-87.9459,17.93598",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0430\u043d-\u041f\u0435\u0434\u0440\u0430"
     ],
@@ -90,7 +94,7 @@
     "wof:concordances":{
         "gn:id":3581164,
         "gp:id":12524036,
-        "qs:id":149058,
+        "qs_pg:id":149058,
         "wd:id":"Q677300",
         "wk:page":"San Pedro"
     },
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":890434951,
-    "wof:lastmodified":1563280875,
+    "wof:lastmodified":1566633228,
     "wof:name":"San Pedro",
     "wof:parent_id":85669321,
     "wof:placetype":"locality",

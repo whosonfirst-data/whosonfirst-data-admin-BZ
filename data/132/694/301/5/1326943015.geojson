@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Belize",
     "iso:country":"BZ",
+    "lbl:bbox":"-88.74683,17.36655,-88.70683,17.40655",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Meditasie"
     ],
@@ -253,7 +257,7 @@
         }
     ],
     "wof:id":1326943015,
-    "wof:lastmodified":1564169821,
+    "wof:lastmodified":1566633181,
     "wof:name":"Meditation",
     "wof:parent_id":85669323,
     "wof:placetype":"locality",

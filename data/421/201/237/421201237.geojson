@@ -10,6 +10,9 @@
     "geom:latitude":16.09835,
     "geom:longitude":-88.8097,
     "iso:country":"BZ",
+    "lbl:bbox":"-88.8297,16.07835,-88.7897,16.11835",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -83,7 +86,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0443\u043d\u0442\u0430-\u0413\u043e\u0440\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "P.G"
     ],
     "name:urd_x_preferred":[
@@ -220,7 +223,7 @@
         "gn:id":3581398,
         "gp:id":57424,
         "loc:id":"n81129212",
-        "qs:id":210877,
+        "qs_pg:id":210877,
         "wd:id":"Q883362",
         "wk:page":"Punta Gorda, Belize"
     },
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":421201237,
-    "wof:lastmodified":1563280868,
+    "wof:lastmodified":1566633227,
     "wof:name":"Punta Gorda",
     "wof:parent_id":85669343,
     "wof:placetype":"locality",

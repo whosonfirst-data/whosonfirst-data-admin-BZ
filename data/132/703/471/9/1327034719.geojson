@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Belize",
     "iso:country":"BZ",
+    "lbl:bbox":"-88.54174,17.01996,-88.50174,17.05996",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Middlesex"
     ],
@@ -171,8 +175,7 @@
         "\u041c\u0456\u0434\u0434\u043b\u0441\u0435\u043a\u0441"
     ],
     "name:und_x_variant":[
-        "Middlesey",
-        "Middlesex"
+        "Middlesey"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0688\u0644\u0633\u06cc\u06a9\u0633"
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":1327034719,
-    "wof:lastmodified":1564169827,
+    "wof:lastmodified":1566633185,
     "wof:name":"Middlesex",
     "wof:parent_id":85669337,
     "wof:placetype":"locality",

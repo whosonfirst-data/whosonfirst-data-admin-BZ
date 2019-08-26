@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":18.165295,
     "lbl:longitude":-88.262536,
+    "lbl:min_zoom":8.0,
     "mps:latitude":18.165295,
     "mps:longitude":-88.262536,
     "mz:hierarchy_label":1,
@@ -149,7 +150,7 @@
         "Corozal"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bcb\u0bb0\u0bcb\u0b9a\u0bb2\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b95\u0bcb\u0bb0\u0bcb\u0b9a\u0bb2\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c4b\u0c30\u0c4b\u0c1c\u0c3e\u0c32\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -163,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u041a\u043e\u0440\u043e\u0441\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Northern District"
     ],
     "name:urd_x_preferred":[
@@ -245,9 +246,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-05-12",
+    "src:population_date":"2000-05-12",
     "statoids:area_km":"1,860",
     "statoids:area_mi":"718",
     "statoids:as_of_date":"2000-05-12",
@@ -272,7 +273,7 @@
         "gp:id":2344796,
         "hasc:id":"BZ.CZ",
         "iso:id":"BZ-CZL",
-        "qs:id":894845,
+        "qs_pg:id":894845,
         "unlc:id":"BZ-CZL",
         "wd:id":"Q512273",
         "wk:page":"Corozal District"
@@ -293,11 +294,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565661765,
+    "wof:lastmodified":1566633195,
     "wof:name":"Corozal",
     "wof:parent_id":85632571,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":32708,
     "wof:population_rank":7,

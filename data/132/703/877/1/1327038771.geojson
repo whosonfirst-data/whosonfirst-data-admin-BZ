@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Belize",
     "iso:country":"BZ",
+    "lbl:bbox":"-88.69202,17.25851,-88.65202,17.29851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Beaver Dam"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1327038771,
-    "wof:lastmodified":1537590263,
+    "wof:lastmodified":1566633185,
     "wof:name":"Beaver Dam",
     "wof:parent_id":85669323,
     "wof:placetype":"locality",

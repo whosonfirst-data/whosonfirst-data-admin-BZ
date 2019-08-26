@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Belize",
     "iso:country":"BZ",
+    "lbl:bbox":"-88.82496,16.4588,-88.78496,16.4988",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632571
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209103591,
-    "wof:lastmodified":1536297652,
+    "wof:lastmodified":1566633215,
     "wof:name":"Ranger Camp",
     "wof:parent_id":85632571,
     "wof:placetype":"locality",

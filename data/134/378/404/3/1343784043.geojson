@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Belize",
     "iso:country":"BZ",
+    "lbl:bbox":"-88.92172,16.19995,-88.88172,16.23995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1343784043,
-    "wof:lastmodified":1536777547,
+    "wof:lastmodified":1566633191,
     "wof:name":"Hamidli Creek Settlement",
     "wof:parent_id":85669343,
     "wof:placetype":"locality",

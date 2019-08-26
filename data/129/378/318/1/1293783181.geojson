@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Belize",
     "iso:country":"BZ",
+    "lbl:bbox":"-88.34665,16.96516,-88.30665,17.00516",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Canada Hill"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293783181,
-    "wof:lastmodified":1537590264,
+    "wof:lastmodified":1566633201,
     "wof:name":"Canada Hill",
     "wof:parent_id":85669337,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Belize",
     "iso:country":"BZ",
+    "lbl:bbox":"-88.56186,17.55531,-88.52186,17.59531",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1293112547,
-    "wof:lastmodified":1536829578,
+    "wof:lastmodified":1566633203,
     "wof:name":"Little Bermudian Landing",
     "wof:parent_id":85669321,
     "wof:placetype":"locality",

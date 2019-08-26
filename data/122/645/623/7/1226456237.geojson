@@ -23,14 +23,17 @@
     "gn:population":0,
     "gn:timezone":"America/Belize",
     "iso:country":"BZ",
+    "lbl:bbox":"-88.6485,17.51569,-88.6085,17.55569",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:nds_x_preferred":[
         "Rancho Dolores"
     ],
     "name:und_x_variant":[
-        "Dolores",
-        "Rancho Dolores"
+        "Dolores"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1226456237,
-    "wof:lastmodified":1564169933,
+    "wof:lastmodified":1566633240,
     "wof:name":"Rancho Dolores",
     "wof:parent_id":85669321,
     "wof:placetype":"locality",

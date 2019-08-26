@@ -10,8 +10,12 @@
     "geom:latitude":17.75,
     "geom:longitude":-88.33333,
     "iso:country":"BZ",
+    "lbl:bbox":"-88.35333,17.73,-88.31333,17.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Rockstone Pond"
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":3581288,
         "gp:id":57449,
-        "qs:id":149059,
+        "qs_pg:id":149059,
         "wd:id":"Q7355598",
         "wk:page":"Rockstone Pond"
     },
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":421195373,
-    "wof:lastmodified":1563280863,
+    "wof:lastmodified":1566633225,
     "wof:name":"Rockstone Pond",
     "wof:parent_id":85669321,
     "wof:placetype":"locality",

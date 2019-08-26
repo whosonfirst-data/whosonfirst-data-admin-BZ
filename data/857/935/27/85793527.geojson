@@ -9,14 +9,16 @@
     "geom:bbox":"-88.187419,17.498224,-88.187419,17.498224",
     "geom:latitude":17.498224,
     "geom:longitude":-88.187419,
-    "gn:gn_country":"BZ",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"BZ",
+    "gn:fcode":"PPLX",
     "gn:latitude":17.49434,
     "gn:longitude":-88.1829,
+    "gn:population":0,
     "iso:country":"BZ",
+    "lbl:bbox":"-88.192419,17.493224,-88.182419,17.503224",
     "lbl:latitude":17.498224,
     "lbl:longitude":-88.187419,
+    "lbl:max_zoom":18.0,
     "mps:latitude":17.495842,
     "mps:longitude":-88.188139,
     "mz:hierarchy_label":0,
@@ -50,9 +52,6 @@
         "Fort George"
     ],
     "name:swe_x_preferred":[
-        "Fort George"
-    ],
-    "name:unk_x_variant":[
         "Fort George"
     ],
     "qs:gn_adm0_cc":"BZ",
@@ -101,7 +100,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":424,
     "wof:belongsto":[
         102191575,
@@ -112,7 +111,6 @@
     "wof:concordances":{
         "gn:id":3582094,
         "gp:id":57299,
-        "qs:id":1082568,
         "qs_pg:id":1082568
     },
     "wof:country":"BZ",
@@ -130,7 +128,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564169844,
+    "wof:lastmodified":1566633194,
     "wof:name":"Fort George",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
