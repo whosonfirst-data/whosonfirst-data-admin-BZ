@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Belize",
     "iso:country":"BZ",
+    "lbl:bbox":"-88.63667,18.18,-88.59667,18.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u30a8\u30eb\u30fb\u30d6\u30e9\u30bd"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1259383175,
-    "wof:lastmodified":1564169925,
+    "wof:lastmodified":1566633236,
     "wof:name":"El Brazo",
     "wof:parent_id":85669331,
     "wof:placetype":"locality",

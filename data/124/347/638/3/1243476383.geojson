@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Belize",
     "iso:country":"BZ",
+    "lbl:bbox":"-88.83563,16.30129,-88.79563,16.34129",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1243476383,
-    "wof:lastmodified":1536762670,
+    "wof:lastmodified":1566633232,
     "wof:name":"Nimu Punit",
     "wof:parent_id":85669343,
     "wof:placetype":"locality",

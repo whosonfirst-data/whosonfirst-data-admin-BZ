@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Belize",
     "iso:country":"BZ",
+    "lbl:bbox":"-88.83667,17.79667,-88.79667,17.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632571
@@ -34,7 +38,7 @@
         "gn:id":3582180
     },
     "wof:country":"BZ",
-    "wof:geomhash":"9fe582a35f6219bc491d66344531d152",
+    "wof:geomhash":"c340fae75126e58f4c718bccd9d60339",
     "wof:hierarchy":[
         {
             "country_id":85632571,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209515671,
-    "wof:lastmodified":1536284740,
+    "wof:lastmodified":1566633214,
     "wof:name":"Driving Camp",
     "wof:parent_id":85632571,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -88.81667,
-    17.816670000000006,
+    17.81667000000001,
     -88.81667,
-    17.816670000000006
+    17.81667000000001
 ],
   "geometry": {"coordinates":[-88.81667,17.81667000000001],"type":"Point"}
 }

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Belize",
     "iso:country":"BZ",
+    "lbl:bbox":"-88.66607,18.07098,-88.62607,18.11098",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yo Creek"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209338457,
-    "wof:lastmodified":1564169888,
+    "wof:lastmodified":1566633214,
     "wof:name":"Yo Creek",
     "wof:parent_id":85632571,
     "wof:placetype":"locality",

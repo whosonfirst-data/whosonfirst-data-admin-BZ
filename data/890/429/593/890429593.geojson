@@ -11,10 +11,14 @@
     "geom:longitude":-89.13917,
     "gn:country":"BZ",
     "gn:fcode":"PPL",
-    "gn:pop":7092,
+    "gn:population":7092,
     "iso:country":"BZ",
+    "lbl:bbox":"-89.15917,17.055,-89.11917,17.095",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Benque Viejo del Carmen"
     ],
@@ -63,7 +67,7 @@
     "name:swe_x_preferred":[
         "Benque Viejo del Carmen"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bengue Viejo"
     ],
     "name:zho_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":3582662,
         "gp:id":81903,
-        "qs:id":149063,
+        "qs_pg:id":149063,
         "wd:id":"Q524851",
         "wk:page":"Benque Viejo del Carmen"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":890429593,
-    "wof:lastmodified":1563280871,
+    "wof:lastmodified":1566633228,
     "wof:name":"Benque Viejo del Carmen",
     "wof:parent_id":85669323,
     "wof:placetype":"locality",

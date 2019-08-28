@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":17.013588,
     "lbl:longitude":-88.897477,
+    "lbl:min_zoom":8.0,
     "mps:latitude":17.013588,
     "mps:longitude":-88.897477,
     "mz:hierarchy_label":1,
@@ -149,7 +150,7 @@
         "Cayo"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bbe\u0baf\u0bcb  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b95\u0bbe\u0baf\u0bcb \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c2f\u0c4b \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -163,7 +164,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u041a\u0430\u0439\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Western District"
     ],
     "name:urd_x_preferred":[
@@ -245,9 +246,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2000-05-12",
+    "src:population_date":"2000-05-12",
     "statoids:area_km":"5,338",
     "statoids:area_mi":"2,061",
     "statoids:as_of_date":"2000-05-12",
@@ -272,7 +273,7 @@
         "gp:id":2344795,
         "hasc:id":"BZ.CY",
         "iso:id":"BZ-CY",
-        "qs:id":1222230,
+        "qs_pg:id":1222230,
         "unlc:id":"BZ-CY",
         "wd:id":"Q508773",
         "wk:page":"Cayo District"
@@ -293,11 +294,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565661766,
+    "wof:lastmodified":1566633196,
     "wof:name":"Cayo",
     "wof:parent_id":85632571,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":52564,
     "wof:population_rank":8,

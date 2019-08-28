@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Belize",
     "iso:country":"BZ",
+    "lbl:bbox":"-88.93769,17.84387,-88.89769,17.88387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Blumenfeld"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1343958337,
-    "wof:lastmodified":1537590262,
+    "wof:lastmodified":1566633191,
     "wof:name":"Blumenfeld",
     "wof:parent_id":85669331,
     "wof:placetype":"locality",

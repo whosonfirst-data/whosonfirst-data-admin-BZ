@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Belize",
     "iso:country":"BZ",
+    "lbl:bbox":"-89.11363,16.24713,-89.07363,16.28713",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hawiia",
         "San Jose"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226140491,
-    "wof:lastmodified":1537590256,
+    "wof:lastmodified":1566633242,
     "wof:name":"San Jose",
     "wof:parent_id":85669343,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Belize",
     "iso:country":"BZ",
+    "lbl:bbox":"-88.85302,16.11873,-88.81302,16.15873",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Forest Home"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326452443,
-    "wof:lastmodified":1564169818,
+    "wof:lastmodified":1566633180,
     "wof:name":"Forest Home",
     "wof:parent_id":85669343,
     "wof:placetype":"locality",

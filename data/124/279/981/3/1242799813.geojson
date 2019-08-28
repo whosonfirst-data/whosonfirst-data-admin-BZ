@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Belize",
     "iso:country":"BZ",
+    "lbl:bbox":"-88.54372,16.41912,-88.50372,16.45912",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Esparasca"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242799813,
-    "wof:lastmodified":1537590264,
+    "wof:lastmodified":1566633233,
     "wof:name":"Esparasca",
     "wof:parent_id":85669343,
     "wof:placetype":"locality",

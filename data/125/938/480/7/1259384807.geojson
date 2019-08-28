@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Belize",
     "iso:country":"BZ",
+    "lbl:bbox":"-88.43232,18.29059,-88.39232,18.33059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1259384807,
-    "wof:lastmodified":1536999603,
+    "wof:lastmodified":1566633235,
     "wof:name":"Puebla Nueva",
     "wof:parent_id":85669327,
     "wof:placetype":"locality",
