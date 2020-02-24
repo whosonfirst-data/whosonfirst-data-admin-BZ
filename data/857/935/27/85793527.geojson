@@ -114,6 +114,9 @@
         "qs_pg:id":1082568
     },
     "wof:country":"BZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e27f51ea1c223d0732948d2a59ade325",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566633194,
+    "wof:lastmodified":1582343855,
     "wof:name":"Fort George",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

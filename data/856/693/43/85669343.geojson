@@ -278,6 +278,9 @@
         "wk:page":"Toledo District"
     },
     "wof:country":"BZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3e8d9841c93d228de6f354c219856e44",
     "wof:hierarchy":[
         {
@@ -293,7 +296,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566633195,
+    "wof:lastmodified":1582343855,
     "wof:name":"Toledo",
     "wof:parent_id":85632571,
     "wof:placetype":"region",

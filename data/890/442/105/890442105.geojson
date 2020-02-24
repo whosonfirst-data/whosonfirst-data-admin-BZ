@@ -519,6 +519,9 @@
     },
     "wof:country":"BZ",
     "wof:created":1469052350,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"53dcd9dd9d659f53b999fd1fdb7109cd",
     "wof:hierarchy":[
         {
@@ -529,7 +532,7 @@
         }
     ],
     "wof:id":890442105,
-    "wof:lastmodified":1566633228,
+    "wof:lastmodified":1582343856,
     "wof:name":"Belmopan",
     "wof:parent_id":85669323,
     "wof:placetype":"locality",
