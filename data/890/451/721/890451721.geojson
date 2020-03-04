@@ -228,6 +228,9 @@
     },
     "wof:country":"BZ",
     "wof:created":1469052791,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f04176c74733ae9409e0e85f711e32a3",
     "wof:hierarchy":[
         {
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":890451721,
-    "wof:lastmodified":1566633228,
+    "wof:lastmodified":1582343857,
     "wof:name":"Dangriga",
     "wof:parent_id":85669337,
     "wof:placetype":"locality",

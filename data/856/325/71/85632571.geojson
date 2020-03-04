@@ -957,6 +957,10 @@
     },
     "wof:country":"BZ",
     "wof:country_alpha3":"BLZ",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"9fa838eb4c2323a96473df803cf12805",
     "wof:hierarchy":[
         {
@@ -971,7 +975,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566633196,
+    "wof:lastmodified":1582343856,
     "wof:name":"Belize",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

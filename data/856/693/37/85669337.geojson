@@ -278,6 +278,9 @@
         "wk:page":"Stann Creek District"
     },
     "wof:country":"BZ",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d41acdb8e637ffbeecfe767243797a9b",
     "wof:hierarchy":[
         {
@@ -293,7 +296,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566633196,
+    "wof:lastmodified":1582343855,
     "wof:name":"Stann Creek",
     "wof:parent_id":85632571,
     "wof:placetype":"region",
