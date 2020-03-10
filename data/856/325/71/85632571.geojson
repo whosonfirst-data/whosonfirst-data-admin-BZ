@@ -933,9 +933,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Belize",
-        "digitalenvoy:country_code":[
-            84
-        ],
+        "digitalenvoy:country_code":84,
         "fb:id":"en.belize",
         "fifa:id":"BLZ",
         "fips:code":"BH",
@@ -978,7 +976,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529083,
+    "wof:lastmodified":1583797286,
     "wof:name":"Belize",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
