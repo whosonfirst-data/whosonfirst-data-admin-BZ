@@ -966,7 +966,8 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth"
+        "naturalearth",
+        "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
@@ -1025,7 +1026,8 @@
     "wof:country_alpha3":"BLZ",
     "wof:geom_alt":[
         "naturalearth",
-        "naturalearth-display-terrestrial-zoom6"
+        "naturalearth-display-terrestrial-zoom6",
+        "whosonfirst-interior"
     ],
     "wof:geomhash":"9a22b704c783a4bf7b52abc7e3ee5b36",
     "wof:hierarchy":[
@@ -1041,7 +1043,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1617827481,
+    "wof:lastmodified":1618362673,
     "wof:name":"Belize",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
