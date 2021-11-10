@@ -33,6 +33,9 @@
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0648\u0644\u064a\u062f\u0648"
     ],
     "name:ben_x_preferred":[
+        "\u099f\u09b2\u09c7\u09a1\u09cb"
+    ],
+    "name:ben_x_variant":[
         "\u09a4\u09b2\u09c7\u09a1\u09c1 \u099c\u09c7\u09b2\u09be"
     ],
     "name:bul_x_preferred":[
@@ -80,10 +83,16 @@
     "name:guj_x_preferred":[
         "\u0a9f\u0acb\u0ab2\u0ac7\u0aa1\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05dc\u05d3\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u091f\u094b\u0932\u093f\u0921\u094b \u091c\u093f\u0932\u093e"
     ],
     "name:hrv_x_preferred":[
+        "Toledo"
+    ],
+    "name:hun_x_preferred":[
         "Toledo"
     ],
     "name:ind_x_preferred":[
@@ -299,7 +308,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1614892944,
+    "wof:lastmodified":1636500455,
     "wof:name":"Toledo",
     "wof:parent_id":85632571,
     "wof:placetype":"region",
