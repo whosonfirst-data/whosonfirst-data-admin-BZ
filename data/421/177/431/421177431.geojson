@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:cym_x_preferred":[
+        "Y Cwymp Mawr"
+    ],
     "name:eng_x_preferred":[
         "The Big Fall"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":421177431,
-    "wof:lastmodified":1566633227,
+    "wof:lastmodified":1690863843,
     "wof:name":"Big Fall",
     "wof:parent_id":85669343,
     "wof:placetype":"locality",

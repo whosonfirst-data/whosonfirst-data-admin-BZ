@@ -44,6 +44,9 @@
     "name:ceb_x_preferred":[
         "Corozal District"
     ],
+    "name:ces_x_preferred":[
+        "Distrikt Corozal"
+    ],
     "name:dan_x_preferred":[
         "Corozal"
     ],
@@ -100,6 +103,9 @@
     ],
     "name:kor_x_preferred":[
         "\ucf54\ub85c\uc0b4 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ucf54\ub85c\uc0b4\uad6c"
     ],
     "name:lad_x_preferred":[
         "Corozal"
@@ -300,7 +306,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500454,
+    "wof:lastmodified":1690863838,
     "wof:name":"Corozal",
     "wof:parent_id":85632571,
     "wof:placetype":"region",
