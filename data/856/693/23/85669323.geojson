@@ -62,6 +62,9 @@
     "name:epo_x_preferred":[
         "Cayo"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0627\u06cc\u0648"
+    ],
     "name:fin_x_preferred":[
         "Cayon kaupunginosa"
     ],
@@ -106,6 +109,9 @@
     ],
     "name:kor_x_preferred":[
         "\uce74\uc694 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uce74\uc694\uad6c"
     ],
     "name:lad_x_preferred":[
         "Cayo"
@@ -303,7 +309,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500455,
+    "wof:lastmodified":1690863839,
     "wof:name":"Cayo",
     "wof:parent_id":85632571,
     "wof:placetype":"region",

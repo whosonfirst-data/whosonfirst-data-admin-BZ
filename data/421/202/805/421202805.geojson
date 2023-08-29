@@ -17,7 +17,13 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Santana"
+    ],
     "name:eng_x_preferred":[
+        "Santana"
+    ],
+    "name:fra_x_preferred":[
         "Santana"
     ],
     "name:nds_x_preferred":[
@@ -74,7 +80,7 @@
         }
     ],
     "wof:id":421202805,
-    "wof:lastmodified":1566633226,
+    "wof:lastmodified":1690863841,
     "wof:name":"Santana",
     "wof:parent_id":85669321,
     "wof:placetype":"locality",

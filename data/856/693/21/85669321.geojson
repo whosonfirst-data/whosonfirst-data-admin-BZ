@@ -62,6 +62,9 @@
     "name:eng_x_variant":[
         "Belize District"
     ],
+    "name:epo_x_preferred":[
+        "Belizo"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0644\u06cc\u0632"
     ],
@@ -103,6 +106,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubca8\ub9ac\uc988 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ubca8\ub9ac\uc988\uad6c"
     ],
     "name:lad_x_preferred":[
         "Belize"
@@ -288,7 +294,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500454,
+    "wof:lastmodified":1690863838,
     "wof:name":"Belize",
     "wof:parent_id":85632571,
     "wof:placetype":"region",

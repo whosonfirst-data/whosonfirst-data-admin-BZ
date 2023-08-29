@@ -62,6 +62,9 @@
     "name:eng_x_variant":[
         "Toledo District"
     ],
+    "name:epo_x_preferred":[
+        "Toledo"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u062a\u0648\u0644\u06cc\u062f\u0648"
     ],
@@ -109,6 +112,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud138\ub9ac\ub3c4 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ud138\ub9ac\ub3c4\uad6c"
     ],
     "name:lad_x_preferred":[
         "Toledo"
@@ -308,7 +314,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500455,
+    "wof:lastmodified":1690863838,
     "wof:name":"Toledo",
     "wof:parent_id":85632571,
     "wof:placetype":"region",

@@ -22,7 +22,13 @@
     "name:ara_x_preferred":[
         "\u0641\u0627\u0644\u064a \u0623\u0648\u0641 \u0628\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0641\u0627\u0644\u0649 \u0627\u0648\u0641 \u0628\u064a\u0633"
+    ],
     "name:ceb_x_preferred":[
+        "Valley of Peace"
+    ],
+    "name:deu_x_preferred":[
         "Valley of Peace"
     ],
     "name:eng_x_preferred":[
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890432795,
-    "wof:lastmodified":1566633229,
+    "wof:lastmodified":1690863844,
     "wof:name":"Valley of Peace",
     "wof:parent_id":85669323,
     "wof:placetype":"locality",

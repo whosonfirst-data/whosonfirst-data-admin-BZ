@@ -59,6 +59,9 @@
     "name:eng_x_variant":[
         "Stann Creek District"
     ],
+    "name:epo_x_preferred":[
+        "Stann Creek"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u062d\u06cc\u0647 \u0627\u0633\u062a\u0627\u0646 \u06a9\u0631\u06cc\u06a9"
     ],
@@ -103,6 +106,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2a4\ud0e0\ud06c\ub9ac\ud06c \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc2a4\ud0e0\ud06c\ub9ac\ud06c\uad6c"
     ],
     "name:lad_x_preferred":[
         "Stann Creek"
@@ -305,7 +311,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500455,
+    "wof:lastmodified":1690863839,
     "wof:name":"Stann Creek",
     "wof:parent_id":85632571,
     "wof:placetype":"region",
