@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.892993,
-    "geom:area_square_m":22358159163.176712,
+    "geom:area_square_m":22358159163.177349,
     "geom:bbox":"-89.227586,15.885622,-87.482109,18.495942",
     "geom:latitude":17.207057,
     "geom:longitude":-88.690251,
@@ -13,6 +13,9 @@
     "iso:country":"BZ",
     "itu:country_code":[
         "501"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "BZ"
@@ -1075,7 +1078,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"501",
     "statoids:ds":"BH",
     "statoids:fifa":"BLZ",
@@ -1134,7 +1138,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"9a22b704c783a4bf7b52abc7e3ee5b36",
+    "wof:geomhash":"6e08c1ee416a1be20bf418eff1c84c2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1148,12 +1152,12 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690863840,
+    "wof:lastmodified":1694492180,
     "wof:name":"Belize",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":331900,
-    "wof:population_rank":10,
+    "wof:population":390353,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-bz",
     "wof:shortcode":"BZ",
     "wof:superseded_by":[],

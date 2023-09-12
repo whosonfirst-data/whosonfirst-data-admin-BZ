@@ -13,12 +13,21 @@
     "gn:fcode":"ADM2",
     "gn:population":34687,
     "iso:country":"BZ",
+    "label:eng_x_preferred_longname":[
+        "Hopelch\u00e9n County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
+        "Hopelch\u00e9n"
+    ],
+    "name:eng_x_preferred":[
         "Hopelch\u00e9n"
     ],
     "name:fra_x_preferred":[
@@ -67,7 +76,7 @@
     },
     "wof:country":"BZ",
     "wof:created":1469051822,
-    "wof:geomhash":"a043390943c115b6105ca4bf8aa2bfb3",
+    "wof:geomhash":"e197f38660cbea3db08d68c099602344",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":890429623,
-    "wof:lastmodified":1627521907,
+    "wof:lastmodified":1694497961,
     "wof:name":"Hopelch\u00e9n",
     "wof:parent_id":85669331,
     "wof:placetype":"county",
