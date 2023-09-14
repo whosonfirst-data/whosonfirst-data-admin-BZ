@@ -34,6 +34,9 @@
     "name:deu_x_preferred":[
         "Dolores"
     ],
+    "name:eng_x_preferred":[
+        "Dolores"
+    ],
     "name:est_x_preferred":[
         "Dolores"
     ],
@@ -123,7 +126,7 @@
     },
     "wof:country":"BZ",
     "wof:created":1459008944,
-    "wof:geomhash":"02bab3ba941536417011e769d08ce4d6",
+    "wof:geomhash":"40646fdc7fe950a41e6a772ec93783de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":421172491,
-    "wof:lastmodified":1636500459,
+    "wof:lastmodified":1694492931,
     "wof:name":"Dolores",
     "wof:parent_id":85669323,
     "wof:placetype":"county",
