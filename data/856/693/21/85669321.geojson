@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.30463,
-    "geom:area_square_m":3591130646.045927,
+    "geom:area_square_m":3591129249.777214,
     "geom:bbox":"-88.641302,17.104486,-87.484202,18.209174",
     "geom:latitude":17.566276,
     "geom:longitude":-88.370863,
@@ -270,16 +270,18 @@
         "gn:id":3582676,
         "gp:id":2344794,
         "hasc:id":"BZ.BZ",
+        "iso:code":"BZ-BZ",
         "iso:id":"BZ-BZ",
         "qs_pg:id":913359,
         "wd:id":"Q506056",
         "wk:page":"Belize District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"32b7558b31333338b1ceff675beac613",
+    "wof:geomhash":"a89d1973ddaeea7c2b98bbdefa211cc0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -294,7 +296,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690863838,
+    "wof:lastmodified":1695884866,
     "wof:name":"Belize",
     "wof:parent_id":85632571,
     "wof:placetype":"region",

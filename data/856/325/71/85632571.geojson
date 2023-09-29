@@ -1117,6 +1117,7 @@
         "hasc:id":"BZ",
         "icao:code":"V3",
         "ioc:id":"BIZ",
+        "iso:code":"BZ",
         "itu:id":"BLZ",
         "loc:id":"n79126944",
         "m49:code":"084",
@@ -1131,6 +1132,7 @@
         "wk:page":"Belize",
         "wmo:id":"BH"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BZ",
     "wof:country_alpha3":"BLZ",
     "wof:geom_alt":[
@@ -1152,7 +1154,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639631,
+    "wof:lastmodified":1695881293,
     "wof:name":"Belize",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

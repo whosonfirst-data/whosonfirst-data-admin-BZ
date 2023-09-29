@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.209105,
-    "geom:area_square_m":2474840177.460628,
+    "geom:area_square_m":2474841828.998016,
     "geom:bbox":"-88.777625,16.435167,-87.78425,17.135735",
     "geom:latitude":16.832263,
     "geom:longitude":-88.463687,
@@ -286,17 +286,19 @@
         "gn:id":3580975,
         "gp:id":2344798,
         "hasc:id":"BZ.SC",
+        "iso:code":"BZ-SC",
         "iso:id":"BZ-SC",
         "qs_pg:id":890034,
         "unlc:id":"BZ-SC",
         "wd:id":"Q502652",
         "wk:page":"Stann Creek District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BZ",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f49bcc5e3e4627d3328f5146a6c98d88",
+    "wof:geomhash":"22899eebb0765548738c72523e71e35b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -311,7 +313,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690863839,
+    "wof:lastmodified":1695884866,
     "wof:name":"Stann Creek",
     "wof:parent_id":85632571,
     "wof:placetype":"region",

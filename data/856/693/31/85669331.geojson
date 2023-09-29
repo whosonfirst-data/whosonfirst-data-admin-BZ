@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.401654,
-    "geom:area_square_m":4729566920.37648,
+    "geom:area_square_m":4729566328.663979,
     "geom:bbox":"-89.161375,17.321032,-88.284347,18.247028",
     "geom:latitude":17.768711,
     "geom:longitude":-88.812787,
@@ -290,14 +290,16 @@
         "gn:id":3581511,
         "gp:id":2344797,
         "hasc:id":"BZ.OW",
+        "iso:code":"BZ-OW",
         "iso:id":"BZ-OW",
         "qs_pg:id":235563,
         "unlc:id":"BZ-OW",
         "wd:id":"Q506036",
         "wk:page":"Orange Walk District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BZ",
-    "wof:geomhash":"c728301abcbab06a36fe9e693b6df62a",
+    "wof:geomhash":"b090dc4469b548730d7c74a73f7de1a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -312,7 +314,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690863839,
+    "wof:lastmodified":1695884866,
     "wof:name":"Orange Walk",
     "wof:parent_id":85632571,
     "wof:placetype":"region",
