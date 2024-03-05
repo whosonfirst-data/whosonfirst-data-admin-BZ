@@ -39,6 +39,11 @@
     "wof:concordances":{
         "gn:id":9253690
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            9253689
+        ]
+    },
     "wof:country":"BZ",
     "wof:geomhash":"8d0befb2fde20098cf2c1318b6681523",
     "wof:hierarchy":[
@@ -50,13 +55,15 @@
         }
     ],
     "wof:id":1226552991,
-    "wof:lastmodified":1566633243,
+    "wof:lastmodified":1706239352,
     "wof:name":"Seven Miles El Progresso",
     "wof:parent_id":85669323,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-bz",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326743135
+    ],
     "wof:tags":[]
 },
   "bbox": [
